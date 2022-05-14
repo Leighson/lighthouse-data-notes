@@ -1,0 +1,3404 @@
+[
+    {
+        "name": "Keep Calm and Code on",
+        "description": "The Smart A.S.S team",
+        "url": "keep-calm-and-code-on",
+        "private": true
+    },
+    {
+        "name": "Green Onions",
+        "description": "Itsaboutdriveitsaboutpowerwestayhungrywedevour",
+        "url": "green-onions",
+        "private": true
+    },
+    {
+        "name": "Data Analytical Gurus",
+        "description": "For anyone who wants to be a data analytics guru",
+        "url": "data-analytical-gurus",
+        "private": false
+    },
+    {
+        "name": "Free Agents",
+        "description": "Able to tackle any task",
+        "url": "free-agents",
+        "private": true
+    },
+    {
+        "name": "What the CRUD?",
+        "description": "Dream team",
+        "url": "what-the-crud",
+        "private": true
+    },
+    {
+        "name": "Mazespin",
+        "description": "Mazepin robbed in 2022",
+        "url": "mazespin",
+        "private": true
+    },
+    {
+        "name": "Fellowship of the Ping",
+        "description": "Companions fighting against the dark lord",
+        "url": "fellowship-of-the-ping",
+        "private": true
+    },
+    {
+        "name": "Inquisitive Minds",
+        "description": "Four Web Developers curious about Data Science",
+        "url": "inquisitive-minds",
+        "private": true
+    },
+    {
+        "name": "MARNO",
+        "description": "Maribel and Nolan",
+        "url": "marno",
+        "private": true
+    },
+    {
+        "name": "Go Getters",
+        "description": "Data enthusiasts can join",
+        "url": "go-getters",
+        "private": false
+    },
+    {
+        "name": "AzadSisters",
+        "description": "Cool Azad Sisters",
+        "url": "azadsisters",
+        "private": true
+    },
+    {
+        "name": "OnTheLine",
+        "description": "Description is needed",
+        "url": "ontheline",
+        "private": true
+    },
+    {
+        "name": "Everettview",
+        "description": "Learning is fun!",
+        "url": "everettview",
+        "private": true
+    },
+    {
+        "name": "MRPBRP",
+        "description": "Team MRPBRP!",
+        "url": "mrpbrp",
+        "private": true
+    },
+    {
+        "name": "Team Doge",
+        "description": "Time for fun? ",
+        "url": "team-doge",
+        "private": true
+    },
+    {
+        "name": "Dream Team 🏆",
+        "description": "🤖",
+        "url": "dream-team",
+        "private": true
+    },
+    {
+        "name": "Les Patates",
+        "description": "Les awesome potates rousses",
+        "url": "les-patates",
+        "private": true
+    },
+    {
+        "name": "Crossover",
+        "description": "This one is for Irene and Jaehyun &lt;3",
+        "url": "crossover",
+        "private": true
+    },
+    {
+        "name": "Team Bronx Qc",
+        "description": "All about where it all started from the bottom!",
+        "url": "team-bronx-qc",
+        "private": true
+    },
+    {
+        "name": "Les vilains castors",
+        "description": "Le castor du Canada (Castor canadensis) est un gra",
+        "url": "les-vilains-castors",
+        "private": true
+    },
+    {
+        "name": "Les meilleurs castors",
+        "description": "Vraiment les meilleurs castors",
+        "url": "les-meilleurs-castors",
+        "private": true
+    },
+    {
+        "name": "Team Need a New Job",
+        "description": "Back to the coding grind",
+        "url": "team-need-a-new-job",
+        "private": true
+    },
+    {
+        "name": "Team Beefy",
+        "description": "Team beefy",
+        "url": "team-beefy",
+        "private": true
+    },
+    {
+        "name": "Complantational",
+        "description": "We love the environment and bring peace and love!",
+        "url": "complantational",
+        "private": true
+    },
+    {
+        "name": "Western Coast Racing",
+        "description": "Hard working northerners ",
+        "url": "western-coast-racing",
+        "private": true
+    },
+    {
+        "name": "Schulich C Team",
+        "description": "Just like the B team... but worse",
+        "url": "schulich-c-team",
+        "private": true
+    },
+    {
+        "name": "Moonstone Coders",
+        "description": "Serious coders only ",
+        "url": "moonstone-coders",
+        "private": true
+    },
+    {
+        "name": "Smile Team",
+        "description": "Smiling our way to the top!",
+        "url": "smile-team",
+        "private": true
+    },
+    {
+        "name": "Datassets ",
+        "description": "Concordia Pals unite 🥰",
+        "url": "datassets",
+        "private": true
+    },
+    {
+        "name": "Coding Corgis",
+        "description": "print(&quot;Bark:&quot;)",
+        "url": "coding-corgis",
+        "private": true
+    },
+    {
+        "name": "Team 316",
+        "description": "Team Awesome for Yong",
+        "url": "team-316",
+        "private": true
+    },
+    {
+        "name": "Canada Represent",
+        "description": "Representing Canada",
+        "url": "canada-represent",
+        "private": false
+    },
+    {
+        "name": "The Sarcastic Pythons",
+        "description": "Pie charts are the best ",
+        "url": "the-sarcastic-pythons",
+        "private": true
+    },
+    {
+        "name": "Team Bujjis",
+        "description": "We are here to win",
+        "url": "team-bujjis",
+        "private": true
+    },
+    {
+        "name": "miaowmiaow",
+        "description": "Nifty cats",
+        "url": "miaowmiaow",
+        "private": false
+    },
+    {
+        "name": "Andula",
+        "description": "Andula and Andula related Andula&#x27;s",
+        "url": "andula",
+        "private": true
+    },
+    {
+        "name": "Team Lifelong Learning ",
+        "description": "Learning new things every day…",
+        "url": "team-lifelong-learning",
+        "private": true
+    },
+    {
+        "name": "4K 145hz",
+        "description": "Faster than average",
+        "url": "4k-145hz",
+        "private": true
+    },
+    {
+        "name": "Unusually Folksy Chicken",
+        "description": "Unusually Folksy Chicken",
+        "url": "unusually-folksy-chicken",
+        "private": true
+    },
+    {
+        "name": "Dolly&#x27;s Magic Carpet",
+        "description": "Friends",
+        "url": "dollys-magic-carpet",
+        "private": true
+    },
+    {
+        "name": "1208",
+        "description": "Us",
+        "url": "1208",
+        "private": true
+    },
+    {
+        "name": "mongort",
+        "description": "mongort",
+        "url": "mongort",
+        "private": true
+    },
+    {
+        "name": "Keep Calm and Query On",
+        "description": "The team that can manage all your queries",
+        "url": "keep-calm-and-query-on",
+        "private": true
+    },
+    {
+        "name": "Smile Team 2",
+        "description": "Smile Team 2 represents SmileCDR",
+        "url": "smile-team-2",
+        "private": false
+    },
+    {
+        "name": "Team Pookie",
+        "description": "Team Pookie Rules!",
+        "url": "team-pookie",
+        "private": true
+    },
+    {
+        "name": "Gogillis",
+        "description": "Team smartypants ",
+        "url": "gogillis",
+        "private": true
+    },
+    {
+        "name": "Team Family You",
+        "description": "Awesome Team Family You ",
+        "url": "team-family-you",
+        "private": true
+    },
+    {
+        "name": "The Coding Monkeys",
+        "description": "The Coding Monkeys  R E B O R N",
+        "url": "the-coding-monkeys",
+        "private": true
+    },
+    {
+        "name": "noassistance4u",
+        "description": "A team of assistants, not for you. ",
+        "url": "noassistance4u",
+        "private": true
+    },
+    {
+        "name": "Underdogs",
+        "description": "Lowkey for newbies, but everyones welcome :)",
+        "url": "underdogs",
+        "private": false
+    },
+    {
+        "name": "Team AAMF",
+        "description": "Services ",
+        "url": "team-aamf",
+        "private": true
+    },
+    {
+        "name": "DataBoat",
+        "description": "Mash up of dboaters",
+        "url": "databoat",
+        "private": true
+    },
+    {
+        "name": "EDGEUP2",
+        "description": "Team for participants in 2021 Edge Up 2.0 FSD",
+        "url": "edgeup2",
+        "private": true
+    },
+    {
+        "name": "Team Newbies",
+        "description": "For the newest of new and the bestest of best",
+        "url": "team-newbies",
+        "private": false
+    },
+    {
+        "name": "100Devs Canada",
+        "description": "#100Devs Canada Team! ",
+        "url": "100devs-canada",
+        "private": true
+    },
+    {
+        "name": "Certarus",
+        "description": "The original Certarus team",
+        "url": "certarus",
+        "private": true
+    },
+    {
+        "name": "No Frills Insights ",
+        "description": "Not sponsored by No Frills",
+        "url": "no-frills-insights",
+        "private": true
+    },
+    {
+        "name": "Pie",
+        "description": "A pie not a pi ;)",
+        "url": "pie",
+        "private": true
+    },
+    {
+        "name": "old_group",
+        "description": "Binary",
+        "url": "old-group",
+        "private": true
+    },
+    {
+        "name": "Girlies in STEM 💅",
+        "description": "Pur, the girlies that get it, get it ",
+        "url": "girlies-in-stem",
+        "private": true
+    },
+    {
+        "name": "elphoa",
+        "description": "Here to learn :) ",
+        "url": "elphoa",
+        "private": true
+    },
+    {
+        "name": "AMB",
+        "description": "The Baobeids",
+        "url": "amb",
+        "private": true
+    },
+    {
+        "name": "Data Newbies",
+        "description": "Where’s the On button?! ",
+        "url": "data-newbies",
+        "private": false
+    },
+    {
+        "name": "Team Snowman",
+        "description": "Team Snowman",
+        "url": "team-snowman",
+        "private": true
+    },
+    {
+        "name": "TheHomeOffice",
+        "description": "Doesn&#x27;t matter where you are, just keep coding.",
+        "url": "thehomeoffice",
+        "private": false
+    },
+    {
+        "name": "Strawhats",
+        "description": "Cool",
+        "url": "strawhats",
+        "private": true
+    },
+    {
+        "name": "Analytical Analysts",
+        "description": "For curious minds that analyze data enthusiastical",
+        "url": "analytical-analysts",
+        "private": false
+    },
+    {
+        "name": "Team Keebee",
+        "description": "Team Keebee",
+        "url": "team-keebee",
+        "private": true
+    },
+    {
+        "name": "Mercenaries",
+        "description": "One time payment for one time job",
+        "url": "mercenaries",
+        "private": false
+    },
+    {
+        "name": "The VINNers",
+        "description": "Developers of VINN",
+        "url": "the-vinners",
+        "private": true
+    },
+    {
+        "name": "Killer Clerks",
+        "description": "It&#x27;s family business",
+        "url": "killer-clerks",
+        "private": true
+    },
+    {
+        "name": "Marquee &amp; Friends",
+        "description": "Marquee Group employees and friends ",
+        "url": "marquee-friends",
+        "private": true
+    },
+    {
+        "name": "Up to Muffin&#x27; Good",
+        "description": "Snack-happy Pie-thon enthusiasts!",
+        "url": "up-to-muffin-good",
+        "private": false
+    },
+    {
+        "name": "Room 42",
+        "description": "All the answers are here.",
+        "url": "room-42",
+        "private": false
+    },
+    {
+        "name": "Team awesome",
+        "description": "Team ",
+        "url": "team-awesome",
+        "private": false
+    },
+    {
+        "name": "The Tragically Git",
+        "description": "The hippest coders around",
+        "url": "the-tragically-git",
+        "private": false
+    },
+    {
+        "name": "Learning is fun",
+        "description": "Using the challenges as a way to learn",
+        "url": "learning-is-fun",
+        "private": false
+    },
+    {
+        "name": "GOML",
+        "description": "Get on my level",
+        "url": "goml",
+        "private": true
+    },
+    {
+        "name": "Team Rocket",
+        "description": "We&#x27;re blasting off again! ",
+        "url": "team-rocket",
+        "private": true
+    },
+    {
+        "name": "Pyrates of the Caribbean ",
+        "description": "Sailing to victory",
+        "url": "pyrates-of-the-caribbean",
+        "private": true
+    },
+    {
+        "name": "SuperiorVinnDevs",
+        "description": "Who you calling team 2?",
+        "url": "superiorvinndevs",
+        "private": true
+    },
+    {
+        "name": "Walk the Walk",
+        "description": "Hola",
+        "url": "walk-the-walk",
+        "private": false
+    },
+    {
+        "name": "Select *, No limit",
+        "description": "we&#x27;re special little snowflakes",
+        "url": "select-no-limit",
+        "private": true
+    },
+    {
+        "name": "Central Perk Java",
+        "description": "How you doin&#x27;?",
+        "url": "central-perk-java",
+        "private": false
+    },
+    {
+        "name": "Team Tiny Boat",
+        "description": "Tiny boat can still float",
+        "url": "team-tiny-boat",
+        "private": true
+    },
+    {
+        "name": "Walkinduke",
+        "description": "Team Walkinduke is ready for fun.",
+        "url": "walkinduke",
+        "private": true
+    },
+    {
+        "name": "inactive team",
+        "description": "inactive team",
+        "url": "inactive-team",
+        "private": true
+    },
+    {
+        "name": "snakeCaseSluts",
+        "description": "the originals",
+        "url": "snakecasesluts",
+        "private": true
+    },
+    {
+        "name": "Team Doggos",
+        "description": "Team Doggos is for anyone who is clueless ",
+        "url": "team-doggos",
+        "private": false
+    },
+    {
+        "name": "Data Analyst League",
+        "description": "Data Analyst League is for DAL Ltd",
+        "url": "data-analyst-league",
+        "private": false
+    },
+    {
+        "name": "Team HevBen",
+        "description": "Data nerdz",
+        "url": "team-hevben",
+        "private": true
+    },
+    {
+        "name": "Whoarewe",
+        "description": "I don&#x27;t know what I&#x27;m doing here",
+        "url": "whoarewe",
+        "private": false
+    },
+    {
+        "name": "TeamCroquette",
+        "description": "Because we love croquette de poulet ",
+        "url": "teamcroquette",
+        "private": true
+    },
+    {
+        "name": "Smile 3",
+        "description": "Smile CDR",
+        "url": "smile-3",
+        "private": true
+    },
+    {
+        "name": "Krusty Krab!!🦀",
+        "description": "Bikini Bottom",
+        "url": "krusty-krab",
+        "private": true
+    },
+    {
+        "name": "Alpha Wolves 🐺🌝",
+        "description": "woofwfwoofoowofwofwoowfowwof",
+        "url": "alpha-wolves",
+        "private": true
+    },
+    {
+        "name": "Coffee and Donuts",
+        "description": "Just for fun ",
+        "url": "coffee-and-donuts",
+        "private": true
+    },
+    {
+        "name": "Sheba",
+        "description": "Followers of the all-powerful evil Sheba. ",
+        "url": "sheba",
+        "private": true
+    },
+    {
+        "name": "British Columbia",
+        "description": "Team British Columbia",
+        "url": "british-columbia",
+        "private": false
+    },
+    {
+        "name": "YOLO",
+        "description": "n&#x2F;a",
+        "url": "yolo",
+        "private": false
+    },
+    {
+        "name": "Red Pandas",
+        "description": "Red Pandas for the win",
+        "url": "red-pandas",
+        "private": true
+    },
+    {
+        "name": "Diversity",
+        "description": "Anyone wanna win can join",
+        "url": "diversity",
+        "private": false
+    },
+    {
+        "name": "Team Awesome",
+        "description": "Go Team Awesome!",
+        "url": "team-awesome",
+        "private": false
+    },
+    {
+        "name": "Team",
+        "description": "Team",
+        "url": "team",
+        "private": false
+    },
+    {
+        "name": "6&#x27;4&quot; 150 IQ",
+        "description": "Harry&#x27;s gang",
+        "url": "64-150-iq",
+        "private": true
+    },
+    {
+        "name": "LightsData",
+        "description": "LightsData is open to data enthusiasts",
+        "url": "lightsdata",
+        "private": false
+    },
+    {
+        "name": "Data Savvy ",
+        "description": "Join if you identify yourself as a data-savvy ",
+        "url": "data-savvy",
+        "private": false
+    },
+    {
+        "name": "together we can change the world",
+        "description": "just in time",
+        "url": "together-we-can-change-the-world",
+        "private": false
+    },
+    {
+        "name": "CellCarta Canada",
+        "description": "NA CellCarta Coders",
+        "url": "cellcarta-canada",
+        "private": true
+    },
+    {
+        "name": "ParkandBean",
+        "description": "Park and Bean!!!",
+        "url": "parkandbean",
+        "private": true
+    },
+    {
+        "name": "McMcMoo",
+        "description": "A beautiful merger of FreshPots and HoboCode",
+        "url": "mcmcmoo",
+        "private": true
+    },
+    {
+        "name": "the suboptimal grad students",
+        "description": "the suboptimal grad students",
+        "url": "the-suboptimal-grad-students",
+        "private": true
+    },
+    {
+        "name": "BrainStorm",
+        "description": "Description is left as an exercise for the reader",
+        "url": "brainstorm",
+        "private": true
+    },
+    {
+        "name": "The Data Sharks",
+        "description": "The Data Sharks are hungry for some data. Join us!",
+        "url": "the-data-sharks",
+        "private": false
+    },
+    {
+        "name": "AmbitionCK",
+        "description": "AmbitionCK is for the Ambition Connect in Chatham.",
+        "url": "ambitionck",
+        "private": true
+    },
+    {
+        "name": "YYC2022",
+        "description": "Calgary-based",
+        "url": "yyc2022",
+        "private": false
+    },
+    {
+        "name": "Team Cuboh!",
+        "description": "Team for employees from Cuboh Software!",
+        "url": "team-cuboh",
+        "private": false
+    },
+    {
+        "name": "Team LSBS",
+        "description": "Lil Sis &amp; Big Sis!",
+        "url": "team-lsbs",
+        "private": false
+    },
+    {
+        "name": "Team University of Alberta ",
+        "description": "Join us if you like to code for fun. ",
+        "url": "team-university-of-alberta",
+        "private": true
+    },
+    {
+        "name": "RainbowUnicorns",
+        "description": "For horses who think they are unicorns with RGB",
+        "url": "rainbowunicorns",
+        "private": false
+    },
+    {
+        "name": "The beatz",
+        "description": "Dropping beatz for data challenges",
+        "url": "the-beatz",
+        "private": true
+    },
+    {
+        "name": "Silver Surfers",
+        "description": "Private Family Group",
+        "url": "silver-surfers",
+        "private": true
+    },
+    {
+        "name": "Brogrammers",
+        "description": "It&#x27;s a feature not a bug.",
+        "url": "brogrammers",
+        "private": true
+    },
+    {
+        "name": "Larpers",
+        "description": "Close to Strangers",
+        "url": "larpers",
+        "private": false
+    },
+    {
+        "name": "Robot Cow",
+        "description": "Robot cow lovers only",
+        "url": "robot-cow",
+        "private": true
+    },
+    {
+        "name": "Team SE",
+        "description": "SE is a team of data enthusiasts from SE Health",
+        "url": "team-se",
+        "private": true
+    },
+    {
+        "name": "Mid-Life Career Changers",
+        "description": "Family, kids, school - we can do it all!",
+        "url": "mid-life-career-changers",
+        "private": false
+    },
+    {
+        "name": "MS Data Devs",
+        "description": "Learn more about data",
+        "url": "ms-data-devs",
+        "private": false
+    },
+    {
+        "name": "Hime Eels",
+        "description": "Thank you https:&#x2F;&#x2F;www.name-generator.org.uk&#x2F;",
+        "url": "hime-eels",
+        "private": true
+    },
+    {
+        "name": "The Dream Sheet",
+        "description": "Lady Boolean has our back",
+        "url": "the-dream-sheet",
+        "private": true
+    },
+    {
+        "name": "Queen Bee Code (Canada)",
+        "description": "Because we love bees &amp; code",
+        "url": "queen-bee-code-canada",
+        "private": false
+    },
+    {
+        "name": "Team &quot;We Try Our Best&quot;",
+        "description": "We try really hard",
+        "url": "team-we-try-our-best",
+        "private": false
+    },
+    {
+        "name": "On va survivre OPU",
+        "description": "The beeeest of Poly",
+        "url": "on-va-survivre-opu",
+        "private": true
+    },
+    {
+        "name": "Team Mushi",
+        "description": "Lol mushi",
+        "url": "team-mushi",
+        "private": true
+    },
+    {
+        "name": "Mepp",
+        "description": "Schmep",
+        "url": "mepp",
+        "private": true
+    },
+    {
+        "name": "Leading Team ",
+        "description": "Come on in already ",
+        "url": "leading-team",
+        "private": false
+    },
+    {
+        "name": "The Franks",
+        "description": "The Franks, what else needs to be said?",
+        "url": "the-franks",
+        "private": true
+    },
+    {
+        "name": "Team TMAD",
+        "description": "Team TMAD",
+        "url": "team-tmad",
+        "private": true
+    },
+    {
+        "name": "Team Alpha",
+        "description": "Bunch of people trying to analyse the data",
+        "url": "team-alpha",
+        "private": false
+    },
+    {
+        "name": "Brampton",
+        "description": "For bramptonites",
+        "url": "brampton",
+        "private": false
+    },
+    {
+        "name": "Hot Boyz Unlimited",
+        "description": "Only for the hottest, most unlimited boyz",
+        "url": "hot-boyz-unlimited",
+        "private": false
+    },
+    {
+        "name": "Ohana",
+        "description": "Team Ohana is family",
+        "url": "ohana",
+        "private": true
+    },
+    {
+        "name": "Coders United",
+        "description": "Having fun while coding",
+        "url": "coders-united",
+        "private": false
+    },
+    {
+        "name": "Team hot shits &lt;3",
+        "description": "no description needed ;)",
+        "url": "team-hot-shits-3",
+        "private": true
+    },
+    {
+        "name": "The Wanderers Reunited",
+        "description": "For our little trio of curious minds",
+        "url": "the-wanderers-reunited",
+        "private": true
+    },
+    {
+        "name": "Team 0w0",
+        "description": "Team for only my friends",
+        "url": "team-0w0",
+        "private": true
+    },
+    {
+        "name": "SWE Toronto",
+        "description": "Society of Women Engineers Toronto members!",
+        "url": "swe-toronto",
+        "private": true
+    },
+    {
+        "name": "Holler for FriData",
+        "description": "Join this team to collab on future projects!",
+        "url": "holler-for-fridata",
+        "private": false
+    },
+    {
+        "name": "Dragon",
+        "description": "Play some DOTA",
+        "url": "dragon",
+        "private": true
+    },
+    {
+        "name": "Uplift team",
+        "description": "Uplift :D ",
+        "url": "uplift-team",
+        "private": true
+    },
+    {
+        "name": "Rocketbrew",
+        "description": "I wish I may, I wish I might, have a big poo 2nite",
+        "url": "rocketbrew",
+        "private": true
+    },
+    {
+        "name": "Uplift Banana team",
+        "description": "Uplift part 2! ",
+        "url": "uplift-banana-team",
+        "private": true
+    },
+    {
+        "name": "Team PE",
+        "description": "Team PE is for Paperclip Editorial",
+        "url": "team-pe",
+        "private": true
+    },
+    {
+        "name": "Amachamax",
+        "description": "Team for Amachamax partners!",
+        "url": "amachamax",
+        "private": true
+    },
+    {
+        "name": "Apes Together Strong",
+        "description": "Ape",
+        "url": "apes-together-strong",
+        "private": false
+    },
+    {
+        "name": "Team Awesome Data TA ",
+        "description": "Team Awesome Data TA from Shopify! ",
+        "url": "team-awesome-data-ta",
+        "private": true
+    },
+    {
+        "name": "Python Is A Snake",
+        "description": "For friends and family who want to learn to code",
+        "url": "python-is-a-snake",
+        "private": true
+    },
+    {
+        "name": "Harvest!",
+        "description": "Harvest Team",
+        "url": "harvest",
+        "private": true
+    },
+    {
+        "name": "Team LHL LXD",
+        "description": "LHL LXDs FTW",
+        "url": "team-lhl-lxd",
+        "private": true
+    },
+    {
+        "name": "VV NinjaTurtles",
+        "description": "The Data Ninja Turtles at VistaVu :)",
+        "url": "vv-ninjaturtles",
+        "private": true
+    },
+    {
+        "name": "Naruto",
+        "description": "Sage mode on code",
+        "url": "naruto",
+        "private": true
+    },
+    {
+        "name": "Formerly CSF",
+        "description": "trying to learn new things",
+        "url": "formerly-csf",
+        "private": true
+    },
+    {
+        "name": "Team Kittens",
+        "description": "Team Kittens is for Zoey, Winston and Fig",
+        "url": "team-kittens",
+        "private": true
+    },
+    {
+        "name": "The_Lab",
+        "description": "Pepito &amp; the moms",
+        "url": "the-lab",
+        "private": true
+    },
+    {
+        "name": "Team Freo",
+        "description": " Our team",
+        "url": "team-freo",
+        "private": true
+    },
+    {
+        "name": "Team Awesome Data TA Team 4",
+        "description": "Team Awesome Data TA from Shopify!",
+        "url": "team-awesome-data-ta-team-4",
+        "private": true
+    },
+    {
+        "name": "Team Awesome Data TA - Team 2",
+        "description": "Team Awesome Data TA from Shopify!",
+        "url": "team-awesome-data-ta-team-2",
+        "private": true
+    },
+    {
+        "name": "Team worldwide ",
+        "description": "Team worldwide is for the homies all over the worl",
+        "url": "team-worldwide",
+        "private": true
+    },
+    {
+        "name": "Inefficient Exhausted Engineering Eggs",
+        "description": "IEEE - we set the standards for the event",
+        "url": "inefficient-exhausted-engineering-eggs",
+        "private": true
+    },
+    {
+        "name": "Team Data&#x27;s",
+        "description": "Team Data&#x27;s is for the people who wanna learn",
+        "url": "team-datas",
+        "private": false
+    },
+    {
+        "name": "Aura &amp; Friends",
+        "description": "Aura + 1 ",
+        "url": "aura-friends",
+        "private": true
+    },
+    {
+        "name": "Data Miners",
+        "description": "Data geeks mining for victory",
+        "url": "data-miners",
+        "private": false
+    },
+    {
+        "name": "Byte Me",
+        "description": "ctrl alt elite",
+        "url": "byte-me",
+        "private": true
+    },
+    {
+        "name": "GIVE US PRIZES PLEASE!!! WE LOVE LIGHTHOUSE LABS!!! YOU DA BEST!!!",
+        "description": "Awesome Team",
+        "url": "give-us-prizes-please-we-love-lighthouse-labs-you-da-best",
+        "private": false
+    },
+    {
+        "name": "Team Awesome Data TA - Team 3",
+        "description": "Team Awesome Data TA from Shopify!",
+        "url": "team-awesome-data-ta-team-3",
+        "private": true
+    },
+    {
+        "name": "Team UpUpDownDownLeftRightLeftRightBAStart",
+        "description": "while gaming: print(&quot;Eat Sleep Code Repeat&quot;)",
+        "url": "team-upupdowndownleftrightleftrightbastart",
+        "private": true
+    },
+    {
+        "name": "Team BIER",
+        "description": "Not the alcoholic drink. ",
+        "url": "team-bier",
+        "private": true
+    },
+    {
+        "name": "BTS Army",
+        "description": "purple purple purple",
+        "url": "bts-army",
+        "private": false
+    },
+    {
+        "name": "Team Mauve Avenger",
+        "description": "We like big data and we cannot lie.",
+        "url": "team-mauve-avenger",
+        "private": true
+    },
+    {
+        "name": "Team {BRACK3TS}",
+        "description": "We are Team {BRACK3TS} ",
+        "url": "team-brack3ts",
+        "private": true
+    },
+    {
+        "name": "Team Fi",
+        "description": "Fi ",
+        "url": "team-fi",
+        "private": true
+    },
+    {
+        "name": "fantastic ",
+        "description": "For kratika",
+        "url": "fantastic",
+        "private": false
+    },
+    {
+        "name": "Team Ninjas",
+        "description": "Curious to find insights of Data",
+        "url": "team-ninjas",
+        "private": true
+    },
+    {
+        "name": "Whatarewedoingeven",
+        "description": "We&#x27;re not sure what&#x27;s going on",
+        "url": "whatarewedoingeven",
+        "private": true
+    },
+    {
+        "name": "Iter8ers",
+        "description": "Those who love to discover something new and fun",
+        "url": "iter8ers",
+        "private": false
+    },
+    {
+        "name": "Cool kids only",
+        "description": "Cool kids only",
+        "url": "cool-kids-only",
+        "private": true
+    },
+    {
+        "name": "Data Warriors ",
+        "description": "Data Warriors for all who loves to play with data.",
+        "url": "data-warriors",
+        "private": true
+    },
+    {
+        "name": "My Nickname in Highschool",
+        "description": "🇨🇦",
+        "url": "my-nickname-in-highschool",
+        "private": true
+    },
+    {
+        "name": "Spud-Island-Sisters",
+        "description": "Two sisters learning data ",
+        "url": "spud-island-sisters",
+        "private": true
+    },
+    {
+        "name": "QT3.14&#x27;s",
+        "description": "https:&#x2F;&#x2F;discord.gg&#x2F;vZXXEam9",
+        "url": "qt3-14s",
+        "private": true
+    },
+    {
+        "name": "Lighthouse Data Challenge Team",
+        "description": "Here to learn and grow",
+        "url": "lighthouse-data-challenge-team",
+        "private": false
+    },
+    {
+        "name": "Moussavi Mobsters",
+        "description": "Only the maddest of lads can be a member",
+        "url": "moussavi-mobsters",
+        "private": false
+    },
+    {
+        "name": "Ketchup and Mustard",
+        "description": "Best duo",
+        "url": "ketchup-and-mustard",
+        "private": true
+    },
+    {
+        "name": "House Light",
+        "description": "House Light is for a few data analysts.",
+        "url": "house-light",
+        "private": true
+    },
+    {
+        "name": "Learners",
+        "description": "For people who are here to learn, hone Skills! ",
+        "url": "learners",
+        "private": false
+    },
+    {
+        "name": "Richard",
+        "description": "None",
+        "url": "richard",
+        "private": true
+    },
+    {
+        "name": "Team Team Team",
+        "description": "Go Team Team Team Team!!!",
+        "url": "team-team-team",
+        "private": true
+    },
+    {
+        "name": "Team Endeavour",
+        "description": "A team of a smarty and a dummy!",
+        "url": "team-endeavour",
+        "private": false
+    },
+    {
+        "name": "Team Coders",
+        "description": "For coders",
+        "url": "team-coders",
+        "private": false
+    },
+    {
+        "name": "One and Zero",
+        "description": "All is well",
+        "url": "one-and-zero",
+        "private": true
+    },
+    {
+        "name": "RA",
+        "description": "A casual team to have fun and learn",
+        "url": "ra",
+        "private": true
+    },
+    {
+        "name": "Beedie Bright",
+        "description": "Y&#x27;all know what it is. ",
+        "url": "beedie-bright",
+        "private": true
+    },
+    {
+        "name": "Pizza Panda",
+        "description": "Eating and Learning ",
+        "url": "pizza-panda",
+        "private": true
+    },
+    {
+        "name": "Vancouver Geek 🤓",
+        "description": "Vancouver Geek for beginners",
+        "url": "vancouver-geek",
+        "private": false
+    },
+    {
+        "name": "Dragon and Bunny",
+        "description": "A division of Sheepy Inc.",
+        "url": "dragon-and-bunny",
+        "private": true
+    },
+    {
+        "name": "&#x2F;dev&#x2F;null",
+        "description": "EOF",
+        "url": "dev-null",
+        "private": true
+    },
+    {
+        "name": "Team Capicuties",
+        "description": "Team Capicuties is for the cuties",
+        "url": "team-capicuties",
+        "private": false
+    },
+    {
+        "name": "Try and Error",
+        "description": "Beginner level team",
+        "url": "try-and-error",
+        "private": false
+    },
+    {
+        "name": "JW Team",
+        "description": "Let&#x27;s have some fun :)",
+        "url": "jw-team",
+        "private": true
+    },
+    {
+        "name": "Team Cat",
+        "description": "Cats only ",
+        "url": "team-cat",
+        "private": true
+    },
+    {
+        "name": "SoonTM",
+        "description": "Free is best",
+        "url": "soontm",
+        "private": true
+    },
+    {
+        "name": "Foxshiya",
+        "description": "Climbing up the ladder of knowledge!",
+        "url": "foxshiya",
+        "private": true
+    },
+    {
+        "name": "Team Dumpling",
+        "description": "Team Dumpling",
+        "url": "team-dumpling",
+        "private": true
+    },
+    {
+        "name": "Rick &amp; Morty",
+        "description": "Canada",
+        "url": "rick-morty",
+        "private": true
+    },
+    {
+        "name": "Diamond Hands",
+        "description": "JS to Python",
+        "url": "diamond-hands",
+        "private": true
+    },
+    {
+        "name": "Team Datas",
+        "description": "Team Data&#x27;s is for the people who wanna learn",
+        "url": "team-datas",
+        "private": false
+    },
+    {
+        "name": "Team Maki",
+        "description": "Team Maki",
+        "url": "team-maki",
+        "private": true
+    },
+    {
+        "name": "Catdonut",
+        "description": "Cat",
+        "url": "catdonut",
+        "private": true
+    },
+    {
+        "name": "UP Pyth(on)!!!",
+        "description": "UP alumni team",
+        "url": "up-python",
+        "private": true
+    },
+    {
+        "name": "Team Springs",
+        "description": "Newbies",
+        "url": "team-springs",
+        "private": true
+    },
+    {
+        "name": "Enter the Dojo",
+        "description": "A team of dedicated learners",
+        "url": "enter-the-dojo",
+        "private": true
+    },
+    {
+        "name": "Rainbow unicorn",
+        "description": "Anyone is welcome to join :)",
+        "url": "rainbow-unicorn",
+        "private": false
+    },
+    {
+        "name": "GangGanfg",
+        "description": "Ganggang is fun yo",
+        "url": "gangganfg",
+        "private": true
+    },
+    {
+        "name": "Educators Unite!!",
+        "description": "A group of teachers learning and sharing together.",
+        "url": "educators-unite",
+        "private": true
+    },
+    {
+        "name": "Team BZ!",
+        "description": "A little team of Xinyi Z. and Felix B. ",
+        "url": "team-bz",
+        "private": true
+    },
+    {
+        "name": "Neon",
+        "description": ":)",
+        "url": "neon",
+        "private": false
+    },
+    {
+        "name": "HELL",
+        "description": "Software Engineering at Concordia University",
+        "url": "hell",
+        "private": true
+    },
+    {
+        "name": "Team Green Orange",
+        "description": "aiushdoasdmposa",
+        "url": "team-green-orange",
+        "private": true
+    },
+    {
+        "name": "The MetaData",
+        "description": "The most awesome and necessary team ever.",
+        "url": "the-metadata",
+        "private": false
+    },
+    {
+        "name": "Team Awesome Data TA - Team 1",
+        "description": "Team 1 FTW",
+        "url": "team-awesome-data-ta-team-1",
+        "private": true
+    },
+    {
+        "name": "Team learn",
+        "description": "Here to learn new things ",
+        "url": "team-learn",
+        "private": false
+    },
+    {
+        "name": "XPower",
+        "description": "Team for those interested in Data",
+        "url": "xpower",
+        "private": true
+    },
+    {
+        "name": "Look at the Data",
+        "description": "We look real hard at the data",
+        "url": "look-at-the-data",
+        "private": true
+    },
+    {
+        "name": "minions",
+        "description": "minions For Friends ",
+        "url": "minions",
+        "private": false
+    },
+    {
+        "name": "Newby to analytics",
+        "description": "New Comer learning analysis ",
+        "url": "newby-to-analytics",
+        "private": false
+    },
+    {
+        "name": "Floppy Weiners",
+        "description": "Green couch squad",
+        "url": "floppy-weiners",
+        "private": true
+    },
+    {
+        "name": "The Dragons",
+        "description": "Just here to learn something new :)",
+        "url": "the-dragons",
+        "private": false
+    },
+    {
+        "name": "My pet python, Pablo, likes triple chocolate fudge cake ",
+        "description": "The title explains it.",
+        "url": "my-pet-python-pablo-likes-triple-chocolate-fudge-cake",
+        "private": false
+    },
+    {
+        "name": "Team Taco",
+        "description": "Taco Solutions Squad",
+        "url": "team-taco",
+        "private": true
+    },
+    {
+        "name": "support legends",
+        "description": "Support team at PartnerStack",
+        "url": "support-legends",
+        "private": true
+    },
+    {
+        "name": "Team Jacob",
+        "description": "Can Escapists code?",
+        "url": "team-jacob",
+        "private": true
+    },
+    {
+        "name": "Friendly Axolotl",
+        "description": "We play to win!",
+        "url": "friendly-axolotl",
+        "private": true
+    },
+    {
+        "name": "Team Okaki 1",
+        "description": "Team Okaki 1 - Not original",
+        "url": "team-okaki-1",
+        "private": true
+    },
+    {
+        "name": "CODE_WARRIORS",
+        "description": "Code warriors is the team for OKAKI inc.",
+        "url": "code-warriors",
+        "private": true
+    },
+    {
+        "name": "Bananas and Yams",
+        "description": "Join for a fun time",
+        "url": "bananas-and-yams",
+        "private": false
+    },
+    {
+        "name": "THE SMARTIES",
+        "description": "spleen spleen spleen",
+        "url": "the-smarties",
+        "private": true
+    },
+    {
+        "name": "LUCKY TEAM",
+        "description": "LUCKY TEA",
+        "url": "lucky-team",
+        "private": true
+    },
+    {
+        "name": "Crazy Bois",
+        "description": "Team Crazy Bois from the McGill MMA Program!",
+        "url": "crazy-bois",
+        "private": true
+    },
+    {
+        "name": "Team LD",
+        "description": "Explosion de petits fruits",
+        "url": "team-ld",
+        "private": true
+    },
+    {
+        "name": "Slytherin",
+        "description": "Welcome to a world of data magic",
+        "url": "slytherin",
+        "private": true
+    },
+    {
+        "name": "The Hustlers",
+        "description": "Let&#x27;s get down to business",
+        "url": "the-hustlers",
+        "private": false
+    },
+    {
+        "name": "Xangles",
+        "description": "Noobs",
+        "url": "xangles",
+        "private": false
+    },
+    {
+        "name": "Family Team",
+        "description": "husband and wife",
+        "url": "family-team",
+        "private": true
+    },
+    {
+        "name": "Plain and Ketchup",
+        "description": "Ketchup and Plain",
+        "url": "plain-and-ketchup",
+        "private": true
+    },
+    {
+        "name": "Smelly cat",
+        "description": "Join for fun coding",
+        "url": "smelly-cat",
+        "private": false
+    },
+    {
+        "name": "Lazy Team",
+        "description": "Personal goal",
+        "url": "lazy-team",
+        "private": false
+    },
+    {
+        "name": "Team Bun à la Bun",
+        "description": "Forming individual bunnies to assist other buns",
+        "url": "team-bun-a-la-bun",
+        "private": true
+    },
+    {
+        "name": "Team Munchie",
+        "description": "😂",
+        "url": "team-munchie",
+        "private": true
+    },
+    {
+        "name": "Cwazy Shwimp",
+        "description": "dorks",
+        "url": "cwazy-shwimp",
+        "private": true
+    },
+    {
+        "name": "Team Gonzos ",
+        "description": "Gonzos only ",
+        "url": "team-gonzos",
+        "private": true
+    },
+    {
+        "name": "Adequately Formidable Foes",
+        "description": "AFF IN DA HOUSEEE!! (All welcomed)",
+        "url": "adequately-formidable-foes",
+        "private": false
+    },
+    {
+        "name": "Everything is Fine",
+        "description": "Team for Forma.ai",
+        "url": "everything-is-fine",
+        "private": true
+    },
+    {
+        "name": "Vancity ACE",
+        "description": "Vancity&#x27;s Analytics Centre of Excellence",
+        "url": "vancity-ace",
+        "private": true
+    },
+    {
+        "name": "The Best Newcomers!",
+        "description": "Low Skill, High Effort! (Hi mom!)",
+        "url": "the-best-newcomers",
+        "private": false
+    },
+    {
+        "name": "Team Chicken",
+        "description": "Team Chicken is for UoG students to learn",
+        "url": "team-chicken",
+        "private": true
+    },
+    {
+        "name": "Internet Club (͠≖ ͜ʖ͠≖)👌",
+        "description": "We love the internet",
+        "url": "internet-club",
+        "private": false
+    },
+    {
+        "name": "Cup Noodles",
+        "description": "Limp noodles adventuring through the world",
+        "url": "cup-noodles",
+        "private": true
+    },
+    {
+        "name": "Team MTLA",
+        "description": "Our official Montreal Analytics Team",
+        "url": "team-mtla",
+        "private": true
+    },
+    {
+        "name": "Data Driven",
+        "description": "We will win cause we are awesome",
+        "url": "data-driven",
+        "private": true
+    },
+    {
+        "name": "Amruta Bijagare",
+        "description": "Cyber Team",
+        "url": "amruta-bijagare",
+        "private": true
+    },
+    {
+        "name": "Swamp Hoppers",
+        "description": "UNBC Swamp Nerds",
+        "url": "swamp-hoppers",
+        "private": true
+    },
+    {
+        "name": "JOTAS",
+        "description": "Team JOTAS from Work",
+        "url": "jotas",
+        "private": true
+    },
+    {
+        "name": "Savvy Souls",
+        "description": "Two friends trying some data manipulation",
+        "url": "savvy-souls",
+        "private": true
+    },
+    {
+        "name": "Team randos",
+        "description": "Just need a team? Join here",
+        "url": "team-randos",
+        "private": false
+    },
+    {
+        "name": "DataCrunchers",
+        "description": "Experts in crunching the data",
+        "url": "datacrunchers",
+        "private": true
+    },
+    {
+        "name": "ZxSquadxZ",
+        "description": "The squad of the best zx&#x27;ers &gt;:)",
+        "url": "zxsquadxz",
+        "private": true
+    },
+    {
+        "name": "The Badgers",
+        "description": "Here to have fun",
+        "url": "the-badgers",
+        "private": false
+    },
+    {
+        "name": "YYC Supercrew",
+        "description": "Cemka and friends",
+        "url": "yyc-supercrew",
+        "private": true
+    },
+    {
+        "name": "Datasaurus ",
+        "description": "Data and dinosaurs ",
+        "url": "datasaurus",
+        "private": true
+    },
+    {
+        "name": "Kings of Kuduairo",
+        "description": "Sesja benvuaindo",
+        "url": "kings-of-kuduairo",
+        "private": true
+    },
+    {
+        "name": "Team STM",
+        "description": "Class of 2022",
+        "url": "team-stm",
+        "private": true
+    },
+    {
+        "name": "Geraff",
+        "description": "Giraffes for Geraff",
+        "url": "geraff",
+        "private": true
+    },
+    {
+        "name": "Family ",
+        "description": "Family team",
+        "url": "family",
+        "private": true
+    },
+    {
+        "name": "Sister Act",
+        "description": "SAY What?",
+        "url": "sister-act",
+        "private": true
+    },
+    {
+        "name": "Rubber Ducky",
+        "description": "Have you tried articulating your problem?",
+        "url": "rubber-ducky",
+        "private": true
+    },
+    {
+        "name": "find me a &#x27;data&#x27;",
+        "description": "just for the experience. plus prizes bcs why not.",
+        "url": "find-me-a-data",
+        "private": true
+    },
+    {
+        "name": "Team Titans ",
+        "description": "Go!",
+        "url": "team-titans",
+        "private": false
+    },
+    {
+        "name": "Test",
+        "description": "Team",
+        "url": "test",
+        "private": true
+    },
+    {
+        "name": "Team Winners",
+        "description": "The Winners",
+        "url": "team-winners",
+        "private": true
+    },
+    {
+        "name": "The I-Don&#x27;t-Have-A-Team Team",
+        "description": "A team for people without a team ",
+        "url": "the-i-dont-have-a-team-team",
+        "private": false
+    },
+    {
+        "name": "Team Green",
+        "description": "Anyone who’s interested can join the group",
+        "url": "team-green",
+        "private": false
+    },
+    {
+        "name": "Py4H",
+        "description": "Beginners still experts!!!",
+        "url": "py4h",
+        "private": true
+    },
+    {
+        "name": "Team Numpy",
+        "description": "Team Numpy",
+        "url": "team-numpy",
+        "private": false
+    },
+    {
+        "name": "Oakville",
+        "description": "Representing Oakville",
+        "url": "oakville",
+        "private": false
+    },
+    {
+        "name": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+        "description": "we don&#x27;t know how to code",
+        "url": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+        "private": true
+    },
+    {
+        "name": "Data Do",
+        "description": "Let the data tell us its story",
+        "url": "data-do",
+        "private": false
+    },
+    {
+        "name": "A Greener Future",
+        "description": "Team AGF will save the world through data",
+        "url": "a-greener-future",
+        "private": true
+    },
+    {
+        "name": "wallstreetbet",
+        "description": "Team who loves risk",
+        "url": "wallstreetbet",
+        "private": true
+    },
+    {
+        "name": "MTLAwesome",
+        "description": "MTLAwesome is team #2!",
+        "url": "mtlawesome",
+        "private": true
+    },
+    {
+        "name": "Ciscy",
+        "description": "First year computing students at Queen&#x27;s",
+        "url": "ciscy",
+        "private": true
+    },
+    {
+        "name": "WAGBR",
+        "description": "WAGBR team is for reStart 2022.",
+        "url": "wagbr",
+        "private": true
+    },
+    {
+        "name": "Danssandra",
+        "description": "Crunchers hankering for daters",
+        "url": "danssandra",
+        "private": true
+    },
+    {
+        "name": "Data Toaster ",
+        "description": "We Data Toasters enjoy playing with data",
+        "url": "data-toaster",
+        "private": true
+    },
+    {
+        "name": "We ❤️ Data",
+        "description": "Anyone who wants to team up for this challenge",
+        "url": "we-data",
+        "private": false
+    },
+    {
+        "name": "Team Ramen",
+        "description": "Welcome to team Ramen, we just like noodles.",
+        "url": "team-ramen",
+        "private": true
+    },
+    {
+        "name": "Happy Red Pandas",
+        "description": "Red pandas coding",
+        "url": "happy-red-pandas",
+        "private": true
+    },
+    {
+        "name": "2 OF THE 5 IDOTS ",
+        "description": "TWO IDOTS OUT OF FIVE",
+        "url": "2-of-the-5-idots",
+        "private": true
+    },
+    {
+        "name": "Booster Bros",
+        "description": "The stuff that Data is made of",
+        "url": "booster-bros",
+        "private": true
+    },
+    {
+        "name": "We don&#x27;t know anything about code",
+        "description": "Title is self explanatory ",
+        "url": "we-dont-know-anything-about-code",
+        "private": false
+    },
+    {
+        "name": "Team nemesis",
+        "description": "We live and breathe data",
+        "url": "team-nemesis",
+        "private": false
+    },
+    {
+        "name": "Limoonz",
+        "description": "Team Limoonz to the moon!",
+        "url": "limoonz",
+        "private": true
+    },
+    {
+        "name": "Nadapon",
+        "description": "Married couple team",
+        "url": "nadapon",
+        "private": true
+    },
+    {
+        "name": "According to all known laws of aviation, there is no way a bee should be able to fly.  Its wings are too small to get its fat little body off the ground. The bee, of course, flies anyway because bees don&#x27;t care what humans think is impossible.",
+        "description": "Daijobu?",
+        "url": "according-to-all-known-laws-of-aviation-there-is-no-way-a-bee-should-be-able-to",
+        "private": true
+    },
+    {
+        "name": "Suckyteam",
+        "description": "Best team in TR",
+        "url": "suckyteam",
+        "private": false
+    },
+    {
+        "name": "MeoMeo",
+        "description": "family team",
+        "url": "meomeo",
+        "private": true
+    },
+    {
+        "name": "Fruit Basket",
+        "description": "Fruit Basket is for fun fruits 🥝🍌🍓🍏",
+        "url": "fruit-basket",
+        "private": true
+    },
+    {
+        "name": "Team Kipling",
+        "description": "Queen&#x27;s MMA Students",
+        "url": "team-kipling",
+        "private": true
+    },
+    {
+        "name": "Filthy Fellas",
+        "description": "why do i need a description",
+        "url": "filthy-fellas",
+        "private": true
+    },
+    {
+        "name": "Sushi Stars",
+        "description": "Doing things the right way",
+        "url": "sushi-stars",
+        "private": true
+    },
+    {
+        "name": "Senior betadase gurus",
+        "description": "We&#x27;re so good that we don&#x27;t need a database.",
+        "url": "senior-betadase-gurus",
+        "private": true
+    },
+    {
+        "name": "OpenDRR",
+        "description": "Team OpenDRR",
+        "url": "opendrr",
+        "private": true
+    },
+    {
+        "name": "A team",
+        "description": "A stands for Average Software Engineer",
+        "url": "a-team",
+        "private": false
+    },
+    {
+        "name": "The-Bakers",
+        "description": "Family Team",
+        "url": "the-bakers",
+        "private": true
+    },
+    {
+        "name": "Team Nuggets",
+        "description": "Team for SFU MBA students",
+        "url": "team-nuggets",
+        "private": true
+    },
+    {
+        "name": "Hudihudi",
+        "description": "Ben",
+        "url": "hudihudi",
+        "private": false
+    },
+    {
+        "name": "Elite Coding",
+        "description": "Beginner Coders",
+        "url": "elite-coding",
+        "private": true
+    },
+    {
+        "name": "Lighthouse",
+        "description": "Light to shine",
+        "url": "lighthouse",
+        "private": false
+    },
+    {
+        "name": "mtlasavvy",
+        "description": "arghhhh",
+        "url": "mtlasavvy",
+        "private": true
+    },
+    {
+        "name": "Fellas!",
+        "description": "Don&#x27;t let your dreams be dreams",
+        "url": "fellas",
+        "private": true
+    },
+    {
+        "name": "Team Ham",
+        "description": "Team Ham for Sarah &amp; Viet",
+        "url": "team-ham",
+        "private": true
+    },
+    {
+        "name": "Team DYNAMITE ",
+        "description": "Team DYNAMITE is for abc Corp ",
+        "url": "team-dynamite",
+        "private": false
+    },
+    {
+        "name": "ELNINO",
+        "description": "TEAM ELNINO IS FOR HAVING FUN LEARNING ",
+        "url": "elnino",
+        "private": true
+    },
+    {
+        "name": "The Avengers",
+        "description": "Not related to the MCU",
+        "url": "the-avengers",
+        "private": false
+    },
+    {
+        "name": "MLJ",
+        "description": "Maggie Lionel Jackson",
+        "url": "mlj",
+        "private": true
+    },
+    {
+        "name": "Homar",
+        "description": "Noobs here!",
+        "url": "homar",
+        "private": false
+    },
+    {
+        "name": "Foodies",
+        "description": "I like food and I cannot lie",
+        "url": "foodies",
+        "private": true
+    },
+    {
+        "name": "Team CanSharks",
+        "description": "Just for fun :)",
+        "url": "team-cansharks",
+        "private": true
+    },
+    {
+        "name": "Datanalytics",
+        "description": "Anyone who wants to join",
+        "url": "datanalytics",
+        "private": false
+    },
+    {
+        "name": "Team BTM",
+        "description": "BTM students",
+        "url": "team-btm",
+        "private": true
+    },
+    {
+        "name": "Team n00bz",
+        "description": "I wanna be the very best, like no one ever was",
+        "url": "team-n00bz",
+        "private": true
+    },
+    {
+        "name": "Team powerglow",
+        "description": "its for fun",
+        "url": "team-powerglow",
+        "private": true
+    },
+    {
+        "name": "Team 2w2m",
+        "description": "Team 2w2m is great",
+        "url": "team-2w2m",
+        "private": true
+    },
+    {
+        "name": "Madmen",
+        "description": "Team YWCA ",
+        "url": "madmen",
+        "private": true
+    },
+    {
+        "name": "STM Teacher team",
+        "description": "STM teachers",
+        "url": "stm-teacher-team",
+        "private": true
+    },
+    {
+        "name": "BestPy",
+        "description": "Best Buy&#x27;s Data Analyst Team",
+        "url": "bestpy",
+        "private": true
+    },
+    {
+        "name": "Overland Flow",
+        "description": "saturation-excess or infiltration-excess?",
+        "url": "overland-flow",
+        "private": true
+    },
+    {
+        "name": "Power BI Rangers",
+        "description": "BI team at BBY",
+        "url": "power-bi-rangers",
+        "private": true
+    },
+    {
+        "name": "Machine Learners",
+        "description": "Machine Learners is the brainchild of Kenny H.",
+        "url": "machine-learners",
+        "private": true
+    },
+    {
+        "name": "LabRats",
+        "description": "LabRats is a groups of amateur pythoners",
+        "url": "labrats",
+        "private": true
+    },
+    {
+        "name": "Pythonists",
+        "description": "Learning new codes everyday",
+        "url": "pythonists",
+        "private": true
+    },
+    {
+        "name": "Lets get this bread",
+        "description": "dream team let&#x27;s gooooo",
+        "url": "lets-get-this-bread",
+        "private": false
+    },
+    {
+        "name": "Help",
+        "description": "we have no idea what we&#x27;re doing",
+        "url": "help",
+        "private": false
+    },
+    {
+        "name": "camel_case_whores",
+        "description": "Some UVic kids trying their best",
+        "url": "camel-case-whores",
+        "private": true
+    },
+    {
+        "name": "Data Analytica",
+        "description": "Future analysts welcome",
+        "url": "data-analytica",
+        "private": false
+    },
+    {
+        "name": "I have not idea for names",
+        "description": "no ideas",
+        "url": "i-have-not-idea-for-names",
+        "private": false
+    },
+    {
+        "name": "Team Titans",
+        "description": "Team Titans is for New learners",
+        "url": "team-titans",
+        "private": true
+    },
+    {
+        "name": "Team Chargers",
+        "description": "Team Chargers is for LA and AB",
+        "url": "team-chargers",
+        "private": true
+    },
+    {
+        "name": "Brickheads",
+        "description": "Hi",
+        "url": "brickheads",
+        "private": true
+    },
+    {
+        "name": "Corgs Gonna Corg",
+        "description": "One Bork at a Time",
+        "url": "corgs-gonna-corg",
+        "private": true
+    },
+    {
+        "name": "Sneks and Ladders",
+        "description": "Board game is optional. ",
+        "url": "sneks-and-ladders",
+        "private": true
+    },
+    {
+        "name": "Juno Alum",
+        "description": "We the best",
+        "url": "juno-alum",
+        "private": true
+    },
+    {
+        "name": "Team Bean",
+        "description": "Team Bean is for Beans Only",
+        "url": "team-bean",
+        "private": true
+    },
+    {
+        "name": "Team coders",
+        "description": "Expert coders",
+        "url": "team-coders",
+        "private": false
+    },
+    {
+        "name": "Epic Library Team!",
+        "description": "Join the library in kicking butt with data!",
+        "url": "epic-library-team",
+        "private": true
+    },
+    {
+        "name": "Team Awesomeness",
+        "description": "Team Awesome for friends ",
+        "url": "team-awesomeness",
+        "private": true
+    },
+    {
+        "name": "SpaghettiLover",
+        "description": "SpaghettiLover is for Forma AI 2",
+        "url": "spaghettilover",
+        "private": true
+    },
+    {
+        "name": "Npower Calgary ",
+        "description": "JITA all star team",
+        "url": "npower-calgary",
+        "private": true
+    },
+    {
+        "name": "Team SlapJack Bros",
+        "description": "SlapJacking",
+        "url": "team-slapjack-bros",
+        "private": true
+    },
+    {
+        "name": "ARC",
+        "description": "Always Really Cool",
+        "url": "arc",
+        "private": true
+    },
+    {
+        "name": "Team Food Fun Friends",
+        "description": "Team Food Fun Friends",
+        "url": "team-food-fun-friends",
+        "private": true
+    },
+    {
+        "name": "Average Callback Hell Enjoyers",
+        "description": "wish you were here",
+        "url": "average-callback-hell-enjoyers",
+        "private": true
+    },
+    {
+        "name": "Team Noob",
+        "description": "For those of us who have no idea what we&#x27;re doing",
+        "url": "team-noob",
+        "private": false
+    },
+    {
+        "name": "Team Custard",
+        "description": "We like snacks and data",
+        "url": "team-custard",
+        "private": true
+    },
+    {
+        "name": "Paste Eaters",
+        "description": "we eat paste for breakfast ",
+        "url": "paste-eaters",
+        "private": true
+    },
+    {
+        "name": "Stormy",
+        "description": "Noobs",
+        "url": "stormy",
+        "private": true
+    },
+    {
+        "name": "TEAM JJJY",
+        "description": "Han Jjak ",
+        "url": "team-jjjy",
+        "private": true
+    },
+    {
+        "name": "Monkey Circus",
+        "description": ".....",
+        "url": "monkey-circus",
+        "private": true
+    },
+    {
+        "name": "The Gigabyters",
+        "description": "Dedicated data team looking for a challenge",
+        "url": "the-gigabyters",
+        "private": true
+    },
+    {
+        "name": "William Snakespeare",
+        "description": "To code, or not to code: that is the question",
+        "url": "william-snakespeare",
+        "private": true
+    },
+    {
+        "name": "Team Postwan",
+        "description": "Team work makes the dream work",
+        "url": "team-postwan",
+        "private": true
+    },
+    {
+        "name": "SuDoKu",
+        "description": "Curious solvers",
+        "url": "sudoku",
+        "private": false
+    },
+    {
+        "name": "VILLAINS",
+        "description": "plain bad",
+        "url": "villains",
+        "private": false
+    },
+    {
+        "name": "Charging 3.0",
+        "description": "Better than Charging 2.0",
+        "url": "charging-3-0",
+        "private": true
+    },
+    {
+        "name": "digitalPandas",
+        "description": "Pandamonium!",
+        "url": "digitalpandas",
+        "private": true
+    },
+    {
+        "name": "DATA IS FUN",
+        "description": "Hungry 24&#x2F;7",
+        "url": "data-is-fun",
+        "private": false
+    },
+    {
+        "name": "Team Newbie",
+        "description": "For anyone who wants to learning together",
+        "url": "team-newbie",
+        "private": false
+    },
+    {
+        "name": "Northern Glitches",
+        "description": "For the glitches we excel through",
+        "url": "northern-glitches",
+        "private": false
+    },
+    {
+        "name": "Big Brains Only",
+        "description": "For the big brains (covid &gt; stats)",
+        "url": "big-brains-only",
+        "private": true
+    },
+    {
+        "name": "FoosballChamp",
+        "description": "UOC SLAYERS",
+        "url": "foosballchamp",
+        "private": true
+    },
+    {
+        "name": "Play and Learn",
+        "description": "Friends",
+        "url": "play-and-learn",
+        "private": true
+    },
+    {
+        "name": "boba_tea",
+        "description": "Team bbt",
+        "url": "boba-tea",
+        "private": false
+    },
+    {
+        "name": "Data newbie",
+        "description": "Newbies want to excel in the data world",
+        "url": "data-newbie",
+        "private": false
+    },
+    {
+        "name": "0x44 0x140",
+        "description": "Specialized in Internet Brotocol.",
+        "url": "0x44-0x140",
+        "private": true
+    },
+    {
+        "name": "Oranje",
+        "description": "If you ain’t Dutch, you ain’t much",
+        "url": "oranje",
+        "private": true
+    },
+    {
+        "name": "The Krang",
+        "description": "An awesome team",
+        "url": "the-krang",
+        "private": true
+    },
+    {
+        "name": "Frozen P&#x27;s",
+        "description": "Couch team",
+        "url": "frozen-ps",
+        "private": true
+    },
+    {
+        "name": "Chikhuls",
+        "description": "We are a group of curious students",
+        "url": "chikhuls",
+        "private": true
+    },
+    {
+        "name": "X-Force",
+        "description": "X-Force for Jan 2022 Business Analytics Cohorts",
+        "url": "x-force",
+        "private": true
+    },
+    {
+        "name": "Team Learners",
+        "description": "For anyone excited about learning ",
+        "url": "team-learners",
+        "private": false
+    },
+    {
+        "name": "Scarbros",
+        "description": "Scarbrossssss",
+        "url": "scarbros",
+        "private": true
+    },
+    {
+        "name": "Data Analytics Nerds",
+        "description": "Big Data and AI Club",
+        "url": "data-analytics-nerds",
+        "private": true
+    },
+    {
+        "name": "Tororonto",
+        "description": "A team of two or three",
+        "url": "tororonto",
+        "private": true
+    },
+    {
+        "name": "Team TO",
+        "description": "We are roomies going strong",
+        "url": "team-to",
+        "private": true
+    },
+    {
+        "name": "Gryphons with Teeth 🦷",
+        "description": "Gryphons with Teeth is a family&#x2F;friends team.",
+        "url": "gryphons-with-teeth",
+        "private": true
+    },
+    {
+        "name": "YVRHKer",
+        "description": "Hker",
+        "url": "yvrhker",
+        "private": true
+    },
+    {
+        "name": "Unbox",
+        "description": "If you can&#x27;t fit your mind in a box, Hop op",
+        "url": "unbox",
+        "private": false
+    },
+    {
+        "name": "Count Carlton",
+        "description": "🐻",
+        "url": "count-carlton",
+        "private": true
+    },
+    {
+        "name": "Let&#x27;s Player Software Developers",
+        "description": "THE BEST TEAM. PERIOD.",
+        "url": "lets-player-software-developers",
+        "private": true
+    },
+    {
+        "name": "SQRL",
+        "description": "A nutty gathering",
+        "url": "sqrl",
+        "private": false
+    },
+    {
+        "name": "Little Data Orphans Team",
+        "description": "Open to all! ",
+        "url": "little-data-orphans-team",
+        "private": false
+    },
+    {
+        "name": "Team QOne",
+        "description": "Who wants to learn? ",
+        "url": "team-qone",
+        "private": false
+    },
+    {
+        "name": "Team MoneyBall",
+        "description": "Anyone keen to explore Data, please join!",
+        "url": "team-moneyball",
+        "private": false
+    },
+    {
+        "name": "Gotta BLAST",
+        "description": "Get blasted",
+        "url": "gotta-blast",
+        "private": true
+    },
+    {
+        "name": "queries out for harambe",
+        "description": "harambe don&#x27;t touch that kid! 🏃‍♂️",
+        "url": "queries-out-for-harambe",
+        "private": false
+    },
+    {
+        "name": "Team snow",
+        "description": "just here to have fun",
+        "url": "team-snow",
+        "private": false
+    },
+    {
+        "name": "A Quail-ity Team",
+        "description": "A team that makes Quail the cat proud",
+        "url": "a-quail-ity-team",
+        "private": true
+    },
+    {
+        "name": "AA",
+        "description": "Adva + Amir",
+        "url": "aa",
+        "private": true
+    },
+    {
+        "name": "Elsecallers",
+        "description": "Code before destination",
+        "url": "elsecallers",
+        "private": true
+    },
+    {
+        "name": "Mobile Millionaires ",
+        "description": "The marathon continues 🏁",
+        "url": "mobile-millionaires",
+        "private": true
+    },
+    {
+        "name": "Data Delvers",
+        "description": "For those on a quest for the Holy Grail of LHL",
+        "url": "data-delvers",
+        "private": false
+    },
+    {
+        "name": "Jenius Teddy",
+        "description": "2 fun bootcamp grads!",
+        "url": "jenius-teddy",
+        "private": false
+    },
+    {
+        "name": "Oilers Fans",
+        "description": "Team for Edmonton Oilers Fans",
+        "url": "oilers-fans",
+        "private": true
+    },
+    {
+        "name": "The Pineapple Club",
+        "description": "Because Pineapples",
+        "url": "the-pineapple-club",
+        "private": true
+    },
+    {
+        "name": "010011010100101110101011",
+        "description": "Binary",
+        "url": "010011010100101110101011",
+        "private": true
+    },
+    {
+        "name": "Team Wattsbert",
+        "description": "help",
+        "url": "team-wattsbert",
+        "private": true
+    },
+    {
+        "name": "Team Expanse",
+        "description": "Family Team",
+        "url": "team-expanse",
+        "private": true
+    },
+    {
+        "name": "print(&quot;Winning Team&quot;)",
+        "description": "Just here to learn and have fun!",
+        "url": "printwinning-team",
+        "private": false
+    },
+    {
+        "name": "Team ReEeeEeE",
+        "description": "Team ReEeeEeE is a great team!",
+        "url": "team-reeeeeee",
+        "private": true
+    },
+    {
+        "name": "team",
+        "description": "the name wasn&#x27;t taken",
+        "url": "team",
+        "private": false
+    },
+    {
+        "name": "Lightful Luminaries",
+        "description": "For PPL",
+        "url": "lightful-luminaries",
+        "private": true
+    },
+    {
+        "name": "Pandas ",
+        "description": "Patience",
+        "url": "pandas",
+        "private": true
+    },
+    {
+        "name": "Impressive, very nice",
+        "description": "Well done bud",
+        "url": "impressive-very-nice",
+        "private": true
+    },
+    {
+        "name": "Data Scientist",
+        "description": "Eager to explore",
+        "url": "data-scientist",
+        "private": true
+    },
+    {
+        "name": "Jap&#x27;s Chaps",
+        "description": "chris is dumb",
+        "url": "japs-chaps",
+        "private": true
+    },
+    {
+        "name": "JV",
+        "description": "Jake + Vicky",
+        "url": "jv",
+        "private": true
+    },
+    {
+        "name": "Abnormal Distribution",
+        "description": "Team 2: Big Data and Artificial Intelligence Club",
+        "url": "abnormal-distribution",
+        "private": false
+    },
+    {
+        "name": "Newbie Struggle",
+        "description": "I don&#x27;t know what I&#x27;m doing",
+        "url": "newbie-struggle",
+        "private": false
+    },
+    {
+        "name": "Team Banana Chips",
+        "description": "Banana Chips",
+        "url": "team-banana-chips",
+        "private": true
+    },
+    {
+        "name": "Underappreciated Bug Catchers",
+        "description": "UBC &gt; SFU",
+        "url": "underappreciated-bug-catchers",
+        "private": true
+    },
+    {
+        "name": "chutoro",
+        "description": "oishi",
+        "url": "chutoro",
+        "private": true
+    },
+    {
+        "name": "Springfield Isotopes",
+        "description": "Go Springfield!",
+        "url": "springfield-isotopes",
+        "private": false
+    },
+    {
+        "name": "WestCoastPowerTeam",
+        "description": "We are a group of amazing people who rock",
+        "url": "westcoastpowerteam",
+        "private": true
+    },
+    {
+        "name": "_CAD_Calgary_",
+        "description": "Just a couple of CAD Gurus flexing their brains",
+        "url": "cad-calgary",
+        "private": true
+    },
+    {
+        "name": "Nacho Average Crew",
+        "description": "#webwizards",
+        "url": "nacho-average-crew",
+        "private": true
+    },
+    {
+        "name": "64k Is All You&#x27;ll Ever Need",
+        "description": "64k is a multi-generational geek squad",
+        "url": "64k-is-all-youll-ever-need",
+        "private": true
+    },
+    {
+        "name": "Les pandas programmeurs ",
+        "description": "Équipes pour un groupe en Français.",
+        "url": "les-pandas-programmeurs",
+        "private": false
+    },
+    {
+        "name": "The Gents",
+        "description": "Me &amp; the boys",
+        "url": "the-gents",
+        "private": true
+    },
+    {
+        "name": "Team BootBoot",
+        "description": "Beautiful and Favorite",
+        "url": "team-bootboot",
+        "private": true
+    },
+    {
+        "name": "Team Awesome ",
+        "description": "Passionate Data analysts",
+        "url": "team-awesome",
+        "private": true
+    },
+    {
+        "name": "Crab Apple Sunday",
+        "description": "H+S ~",
+        "url": "crab-apple-sunday",
+        "private": true
+    },
+    {
+        "name": "That Team",
+        "description": "In it to win it......",
+        "url": "that-team",
+        "private": false
+    },
+    {
+        "name": "PUBLIC BUTTER ",
+        "description": "A team for all. ",
+        "url": "public-butter",
+        "private": false
+    },
+    {
+        "name": "Team Sunbeam",
+        "description": "Stare into the Sun",
+        "url": "team-sunbeam",
+        "private": false
+    },
+    {
+        "name": "Team ANNARYAN",
+        "description": "Very cool team",
+        "url": "team-annaryan",
+        "private": true
+    },
+    {
+        "name": "Dat A Team",
+        "description": "future data science team",
+        "url": "dat-a-team",
+        "private": true
+    },
+    {
+        "name": "The Game",
+        "description": "Team AC&#x2F;CM",
+        "url": "the-game",
+        "private": true
+    },
+    {
+        "name": "Team YAAS",
+        "description": "Team YAAS ",
+        "url": "team-yaas",
+        "private": true
+    },
+    {
+        "name": "Eat, Breathe, Code",
+        "description": "Loop until we get a job",
+        "url": "eat-breathe-code",
+        "private": false
+    },
+    {
+        "name": "Literally Anyone Can Join Us",
+        "description": "I just want to learn how to do this",
+        "url": "literally-anyone-can-join-us",
+        "private": false
+    },
+    {
+        "name": "Team Sputnik",
+        "description": "Open to any and all people who want to participate",
+        "url": "team-sputnik",
+        "private": false
+    },
+    {
+        "name": "Cuboh Team B",
+        "description": "Cuboh Team 2 will be #1",
+        "url": "cuboh-team-b",
+        "private": true
+    },
+    {
+        "name": "Team Cuboh A",
+        "description": "Team Cuboh",
+        "url": "team-cuboh-a",
+        "private": false
+    },
+    {
+        "name": "Deca-ten",
+        "description": "Deca-ten members love their prawn tempura",
+        "url": "deca-ten",
+        "private": true
+    },
+    {
+        "name": "Good Vibes !",
+        "description": "Let&#x27;s Do this !! ",
+        "url": "good-vibes",
+        "private": false
+    },
+    {
+        "name": "Team Warren",
+        "description": "Couple bros that love geography",
+        "url": "team-warren",
+        "private": true
+    },
+    {
+        "name": "Jim-Bob the Data Kangaroo",
+        "description": "Two guys named James and Bob",
+        "url": "jim-bob-the-data-kangaroo",
+        "private": true
+    },
+    {
+        "name": "AirPnP",
+        "description": "AirBnB for bathrooms",
+        "url": "airpnp",
+        "private": true
+    },
+    {
+        "name": "OCHO_Data",
+        "description": "Not Quite Eight or Spanish",
+        "url": "ocho-data",
+        "private": true
+    },
+    {
+        "name": "The Club Codes",
+        "description": "I want friends to code with me",
+        "url": "the-club-codes",
+        "private": false
+    },
+    {
+        "name": "Lettuce",
+        "description": "I can&#x27;t say cheese",
+        "url": "lettuce",
+        "private": true
+    },
+    {
+        "name": "BeaBo &amp; Slade",
+        "description": "Track 1: Build my code up Buttercup",
+        "url": "beabo-slade",
+        "private": true
+    },
+    {
+        "name": "Learners Club",
+        "description": "Here to learn daily",
+        "url": "learners-club",
+        "private": false
+    },
+    {
+        "name": "DIGITAL NOMAD",
+        "description": "What TeamRocket became after blastingoff 97k times",
+        "url": "digital-nomad",
+        "private": true
+    },
+    {
+        "name": "Coding Geeks",
+        "description": "For those that dont have a team to join this one",
+        "url": "coding-geeks",
+        "private": false
+    },
+    {
+        "name": "Krusty Krab",
+        "description": "For anyone who wants to join",
+        "url": "krusty-krab",
+        "private": false
+    },
+    {
+        "name": "I DON&#x27;T KNOW WHAT I&#x27;M DOING",
+        "description": "please send help... (all members are welcome! ^.^)",
+        "url": "i-dont-know-what-im-doing",
+        "private": false
+    },
+    {
+        "name": "Queens of Aldo ",
+        "description": "Queens of Aldo Group",
+        "url": "queens-of-aldo",
+        "private": true
+    },
+    {
+        "name": "Team Frog Beer",
+        "description": "Frogs that love beer",
+        "url": "team-frog-beer",
+        "private": true
+    },
+    {
+        "name": "Heart &amp; Brain",
+        "description": "Based on the Awkward Yeti comics ",
+        "url": "heart-brain",
+        "private": true
+    },
+    {
+        "name": "Mavericks",
+        "description": "Do amazing with data",
+        "url": "mavericks",
+        "private": false
+    },
+    {
+        "name": "Zucchini 2.0",
+        "description": "Learning to become hackers",
+        "url": "zucchini-2-0",
+        "private": true
+    },
+    {
+        "name": "Open Team",
+        "description": "Public Team",
+        "url": "open-team",
+        "private": false
+    },
+    {
+        "name": "Fat Guys with Huge Decks",
+        "description": "Fat Guys on Huge Decks",
+        "url": "fat-guys-with-huge-decks",
+        "private": false
+    },
+    {
+        "name": "TheProcrastinators",
+        "description": "A team of highly diligent workers",
+        "url": "theprocrastinators",
+        "private": true
+    },
+    {
+        "name": "Vaswani",
+        "description": "Family",
+        "url": "vaswani",
+        "private": true
+    },
+    {
+        "name": "Cardstock Cats",
+        "description": "Cats on the open sea searching for code! ",
+        "url": "cardstock-cats",
+        "private": true
+    },
+    {
+        "name": "LHLAlumni",
+        "description": "LHLAlumni",
+        "url": "lhlalumni",
+        "private": true
+    },
+    {
+        "name": "The Champs",
+        "description": "We are humble champions",
+        "url": "the-champs",
+        "private": true
+    },
+    {
+        "name": "Join My Public Team",
+        "description": "leftovers",
+        "url": "join-my-public-team",
+        "private": false
+    },
+    {
+        "name": "Fixers",
+        "description": "Team Fixers intl",
+        "url": "fixers",
+        "private": false
+    },
+    {
+        "name": "Team CH",
+        "description": "Cisneros H Family",
+        "url": "team-ch",
+        "private": true
+    },
+    {
+        "name": "&lt;&#x2F;br&gt; a leg",
+        "description": "LETS &lt;&#x2F;br&gt; A LEG TOGETHER !!!!!!!!!!!!!!!!!!",
+        "url": "br-a-leg",
+        "private": false
+    },
+    {
+        "name": "Paw_Patrol",
+        "description": "Paw_Patrol",
+        "url": "paw-patrol",
+        "private": false
+    },
+    {
+        "name": "DataAnalysts-Numpy",
+        "description": "This group is for NumpyNinja",
+        "url": "dataanalysts-numpy",
+        "private": false
+    },
+    {
+        "name": "Mr. Chicken",
+        "description": "Chicken",
+        "url": "mr-chicken",
+        "private": true
+    },
+    {
+        "name": "WomanCodes",
+        "description": "Coding Ladies from UdeM",
+        "url": "womancodes",
+        "private": true
+    },
+    {
+        "name": "Maidenless Tarnished",
+        "description": "Unfortunately for us, we are maindenless.",
+        "url": "maidenless-tarnished",
+        "private": true
+    },
+    {
+        "name": "Women who code",
+        "description": "Awesome team from ETS :D",
+        "url": "women-who-code",
+        "private": true
+    },
+    {
+        "name": "Team Sparkling Hills",
+        "description": "Lovebirds Trying Something New",
+        "url": "team-sparkling-hills",
+        "private": false
+    },
+    {
+        "name": "Team MYMY",
+        "description": "learning is forever",
+        "url": "team-mymy",
+        "private": true
+    },
+    {
+        "name": "The Human Beings",
+        "description": "A married couple",
+        "url": "the-human-beings",
+        "private": true
+    },
+    {
+        "name": "Acapella Club ",
+        "description": "coding singers ",
+        "url": "acapella-club",
+        "private": true
+    },
+    {
+        "name": "Eggplant",
+        "description": "We shall beat team Zucchini",
+        "url": "eggplant",
+        "private": true
+    },
+    {
+        "name": "Chimichangas",
+        "description": "We are chimichangas",
+        "url": "chimichangas",
+        "private": true
+    },
+    {
+        "name": "Team Last Min",
+        "description": "For all the last min folks :)",
+        "url": "team-last-min",
+        "private": false
+    },
+    {
+        "name": "TeamHappyTime",
+        "description": "Teach Riri to Code",
+        "url": "teamhappytime",
+        "private": true
+    },
+    {
+        "name": "Fine is everything ",
+        "description": "everything at all ",
+        "url": "fine-is-everything",
+        "private": true
+    },
+    {
+        "name": "Team Squats",
+        "description": "the queen of exercises",
+        "url": "team-squats",
+        "private": true
+    },
+    {
+        "name": "2022 Stanley Cup Champions: Edmonton Oilers",
+        "description": "Vim or Emacs? Cats or Dogs? Join us regardless :)",
+        "url": "2022-stanley-cup-champions-edmonton-oilers",
+        "private": true
+    },
+    {
+        "name": "Team C",
+        "description": "Everyone can try!",
+        "url": "team-c",
+        "private": false
+    },
+    {
+        "name": "CyHunters",
+        "description": "Cybersecurity meets data and code ",
+        "url": "cyhunters",
+        "private": true
+    },
+    {
+        "name": "Knights of Bipen",
+        "description": "Husband&#x2F;wife programmer duo",
+        "url": "knights-of-bipen",
+        "private": true
+    },
+    {
+        "name": "LaZiJi",
+        "description": "a banch of genius",
+        "url": "laziji",
+        "private": true
+    },
+    {
+        "name": "Mercedes-AMG Petronas Formula One Team",
+        "description": "beep beep",
+        "url": "mercedes-amg-petronas-formula-one-team",
+        "private": true
+    },
+    {
+        "name": "Rhazelle&#x27;s Team",
+        "description": "Let&#x27;s have fun together!",
+        "url": "rhazelles-team",
+        "private": false
+    },
+    {
+        "name": "Irish Coders",
+        "description": "St. Pat&#x27;s ICS4U&#x2F;4C",
+        "url": "irish-coders",
+        "private": true
+    },
+    {
+        "name": "DataManiac",
+        "description": "Open for everyone",
+        "url": "datamaniac",
+        "private": false
+    },
+    {
+        "name": "Team Piks",
+        "description": "Piks",
+        "url": "team-piks",
+        "private": true
+    },
+    {
+        "name": "Funghi Friends",
+        "description": "Some cool ladies ",
+        "url": "funghi-friends",
+        "private": true
+    },
+    {
+        "name": "Curiosity Made the Cat a Data Scientist",
+        "description": "Learners of all levels welcome!",
+        "url": "curiosity-made-the-cat-a-data-scientist",
+        "private": false
+    },
+    {
+        "name": "NOV2222",
+        "description": "-flails-",
+        "url": "nov2222",
+        "private": true
+    },
+    {
+        "name": "Birdie AI",
+        "description": ":D",
+        "url": "birdie-ai",
+        "private": true
+    },
+    {
+        "name": "Birdie AI 2",
+        "description": ":D",
+        "url": "birdie-ai-2",
+        "private": true
+    },
+    {
+        "name": "Arcade",
+        "description": "The team behind the arcade",
+        "url": "arcade",
+        "private": true
+    },
+    {
+        "name": "TeamLookingToWin",
+        "description": "For anyone who is hungry to learn and to win!",
+        "url": "teamlookingtowin",
+        "private": false
+    },
+    {
+        "name": "Cat Takers",
+        "description": "For Taking Cats",
+        "url": "cat-takers",
+        "private": false
+    },
+    {
+        "name": "Cyhunt",
+        "description": "The Best!",
+        "url": "cyhunt",
+        "private": false
+    },
+    {
+        "name": "The Elegant Giraffes",
+        "description": "Come one, come all!",
+        "url": "the-elegant-giraffes",
+        "private": false
+    },
+    {
+        "name": "The Leftovers",
+        "description": "All are welcome",
+        "url": "the-leftovers",
+        "private": false
+    },
+    {
+        "name": "strangeloops",
+        "description": "Inexplicable",
+        "url": "strangeloops",
+        "private": true
+    },
+    {
+        "name": "Byte-Me",
+        "description": "Learning slowly by surely!",
+        "url": "byte-me",
+        "private": true
+    },
+    {
+        "name": "Team Cloud",
+        "description": "MRU AWS reStart team",
+        "url": "team-cloud",
+        "private": true
+    },
+    {
+        "name": "Bread",
+        "description": "Bread fund",
+        "url": "bread",
+        "private": true
+    },
+    {
+        "name": "Shop!",
+        "description": "Team From Shopify",
+        "url": "shop",
+        "private": true
+    },
+    {
+        "name": "PythonWizard",
+        "description": "If you love Python, come join me!",
+        "url": "pythonwizard",
+        "private": false
+    },
+    {
+        "name": "1453 Laurier Ave",
+        "description": "Come On",
+        "url": "1453-laurier-ave",
+        "private": false
+    },
+    {
+        "name": "The 6IX",
+        "description": "Toronto Coding",
+        "url": "the-6ix",
+        "private": false
+    },
+    {
+        "name": "Cat People",
+        "description": "Are you open to trying new things?",
+        "url": "cat-people",
+        "private": false
+    },
+    {
+        "name": "Scribb gang",
+        "description": "Scibb gang is a gang that enjoys data and scribb",
+        "url": "scribb-gang",
+        "private": false
+    },
+    {
+        "name": "Team No0bz",
+        "description": "For the No0bs with high hopes",
+        "url": "team-no0bz",
+        "private": false
+    },
+    {
+        "name": "Team Cloud 2",
+        "description": "Edge Up 2.0 Cloud",
+        "url": "team-cloud-2",
+        "private": false
+    },
+    {
+        "name": "Team for Learning",
+        "description": "Team for Learning new things",
+        "url": "team-for-learning",
+        "private": false
+    },
+    {
+        "name": "Team Cool",
+        "description": "A cool team :)",
+        "url": "team-cool",
+        "private": false
+    },
+    {
+        "name": "union(Piggie, Daddie)",
+        "description": "This is a team of piggie and daddie 😸🐽",
+        "url": "unionpiggie-daddie",
+        "private": true
+    },
+    {
+        "name": "CALGARY RESTART ",
+        "description": "Mru restart ",
+        "url": "calgary-restart",
+        "private": false
+    },
+    {
+        "name": "Nizar Team",
+        "description": "For Friends",
+        "url": "nizar-team",
+        "private": true
+    },
+    {
+        "name": "BlackCherryWoodCo",
+        "description": "Black Cherry",
+        "url": "blackcherrywoodco",
+        "private": false
+    },
+    {
+        "name": "Bob&#x27;s Builders ",
+        "description": "Bob&#x27;s builders group",
+        "url": "bobs-builders",
+        "private": false
+    },
+    {
+        "name": "Mmm",
+        "description": "Mal, Mike, &amp; Michael",
+        "url": "mmm",
+        "private": true
+    },
+    {
+        "name": "eat carrots",
+        "description": "no pressure",
+        "url": "eat-carrots",
+        "private": false
+    },
+    {
+        "name": "Team EDGEUP",
+        "description": "Team EDGEUP",
+        "url": "team-edgeup",
+        "private": false
+    },
+    {
+        "name": "Jailhouse",
+        "description": "Just looking for some practice",
+        "url": "jailhouse",
+        "private": true
+    },
+    {
+        "name": "Schulich MMGT 2022",
+        "description": "for whoever is interested",
+        "url": "schulich-mmgt-2022",
+        "private": false
+    },
+    {
+        "name": "Awesome Possum",
+        "description": "Awesome Possum",
+        "url": "awesome-possum",
+        "private": true
+    },
+    {
+        "name": "Dip n dip",
+        "description": "Here to dip dive in data ocean",
+        "url": "dip-n-dip",
+        "private": true
+    },
+    {
+        "name": "Team kids",
+        "description": "kids",
+        "url": "team-kids",
+        "private": true
+    },
+    {
+        "name": "Unicorn x Rainbow",
+        "description": "Awesome",
+        "url": "unicorn-x-rainbow",
+        "private": true
+    },
+    {
+        "name": "Delicious Data Pye",
+        "description": "Best Buy Data Analyst Part 2",
+        "url": "delicious-data-pye",
+        "private": false
+    },
+    {
+        "name": "Team Cricket",
+        "description": "Just for fits and giggles",
+        "url": "team-cricket",
+        "private": true
+    },
+    {
+        "name": "Join",
+        "description": "Just Join",
+        "url": "join",
+        "private": false
+    },
+    {
+        "name": "Health Data Analysis",
+        "description": "For Health Data enthusiasts ",
+        "url": "health-data-analysis",
+        "private": true
+    },
+    {
+        "name": "Just for Fun",
+        "description": "Just for Fun",
+        "url": "just-for-fun",
+        "private": false
+    },
+    {
+        "name": "Snake Fanclub",
+        "description": "Everything will surely be alright!",
+        "url": "snake-fanclub",
+        "private": true
+    },
+    {
+        "name": "Mutandiro",
+        "description": "Best team",
+        "url": "mutandiro",
+        "private": true
+    },
+    {
+        "name": "Rapid Cucumber",
+        "description": "Team",
+        "url": "rapid-cucumber",
+        "private": false
+    },
+    {
+        "name": "Python &amp; SQL team",
+        "description": "This team is for data enthusiast",
+        "url": "python-sql-team",
+        "private": true
+    },
+    {
+        "name": "Team Kulak ",
+        "description": "XD ",
+        "url": "team-kulak",
+        "private": true
+    }
+]

@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "name": "how to program in javascript",
+      "author": "prairie",
+      "wordCount": 1200
+    },
+    {
+      "name": "should you rewrite your application in python?",
+      "author": "pippa",
+      "wordCount": 40000
+    }
+  ],
+  "blogs": [
+    {
+      "title": "differences between js objects and python dictionaries",
+      "postedBy": "jennifer"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "pizza": ["veggie", "pepperoni", "pineapple", "mushroom"],
+  "price": [12.99, 14.00, 11.99, 16.00],
+  "averageRating": [5, 4, 4.5, 4.9]
+}

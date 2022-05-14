@@ -1,0 +1,2137 @@
+[
+    {
+        "name": "Mr. Chicken",
+        "url": "mr-chicken",
+        "prize_points": "140"
+    },
+    {
+        "name": "LaZiJi",
+        "url": "laziji",
+        "prize_points": "140"
+    },
+    {
+        "name": "TheProcrastinators",
+        "url": "theprocrastinators",
+        "prize_points": "140"
+    },
+    {
+        "name": "Oilers Fans",
+        "url": "oilers-fans",
+        "prize_points": "140"
+    },
+    {
+        "name": "Test",
+        "url": "test",
+        "prize_points": "140"
+    },
+    {
+        "name": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+        "url": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+        "prize_points": "140"
+    },
+    {
+        "name": "Team UpUpDownDownLeftRightLeftRightBAStart",
+        "url": "team-upupdowndownleftrightleftrightbastart",
+        "prize_points": "140"
+    },
+    {
+        "name": "Red Pandas",
+        "url": "red-pandas",
+        "prize_points": "140"
+    },
+    {
+        "name": "ARC",
+        "url": "arc",
+        "prize_points": "135"
+    },
+    {
+        "name": "Springfield Isotopes",
+        "url": "springfield-isotopes",
+        "prize_points": "130"
+    },
+    {
+        "name": "Team ReEeeEeE",
+        "url": "team-reeeeeee",
+        "prize_points": "130"
+    },
+    {
+        "name": "010011010100101110101011",
+        "url": "010011010100101110101011",
+        "prize_points": "130"
+    },
+    {
+        "name": "Scarbros",
+        "url": "scarbros",
+        "prize_points": "130"
+    },
+    {
+        "name": "Savvy Souls",
+        "url": "savvy-souls",
+        "prize_points": "130"
+    },
+    {
+        "name": "SoonTM",
+        "url": "soontm",
+        "prize_points": "130"
+    },
+    {
+        "name": "Marquee &amp; Friends",
+        "url": "marquee-friends",
+        "prize_points": "130"
+    },
+    {
+        "name": "Pythonists",
+        "url": "pythonists",
+        "prize_points": "125"
+    },
+    {
+        "name": "DIGITAL NOMAD",
+        "url": "digital-nomad",
+        "prize_points": "120"
+    },
+    {
+        "name": "Filthy Fellas",
+        "url": "filthy-fellas",
+        "prize_points": "120"
+    },
+    {
+        "name": "Fruit Basket",
+        "url": "fruit-basket",
+        "prize_points": "120"
+    },
+    {
+        "name": "camel_case_whores",
+        "url": "camel-case-whores",
+        "prize_points": "120"
+    },
+    {
+        "name": "ZxSquadxZ",
+        "url": "zxsquadxz",
+        "prize_points": "120"
+    },
+    {
+        "name": "Team Okaki 1",
+        "url": "team-okaki-1",
+        "prize_points": "120"
+    },
+    {
+        "name": "Friendly Axolotl",
+        "url": "friendly-axolotl",
+        "prize_points": "120"
+    },
+    {
+        "name": "Team Mauve Avenger",
+        "url": "team-mauve-avenger",
+        "prize_points": "120"
+    },
+    {
+        "name": "Byte Me",
+        "url": "byte-me",
+        "prize_points": "120"
+    },
+    {
+        "name": "Analytical Analysts",
+        "url": "analytical-analysts",
+        "prize_points": "120"
+    },
+    {
+        "name": "Girlies in STEM 💅",
+        "url": "girlies-in-stem",
+        "prize_points": "120"
+    },
+    {
+        "name": "Keep Calm and Code on",
+        "url": "keep-calm-and-code-on",
+        "prize_points": "120"
+    },
+    {
+        "name": "Gotta BLAST",
+        "url": "gotta-blast",
+        "prize_points": "115"
+    },
+    {
+        "name": "William Snakespeare",
+        "url": "william-snakespeare",
+        "prize_points": "115"
+    },
+    {
+        "name": "TEAM JJJY",
+        "url": "team-jjjy",
+        "prize_points": "115"
+    },
+    {
+        "name": "Senior betadase gurus",
+        "url": "senior-betadase-gurus",
+        "prize_points": "115"
+    },
+    {
+        "name": "WomanCodes",
+        "url": "womancodes",
+        "prize_points": "110"
+    },
+    {
+        "name": "The Gents",
+        "url": "the-gents",
+        "prize_points": "110"
+    },
+    {
+        "name": "Data Delvers",
+        "url": "data-delvers",
+        "prize_points": "110"
+    },
+    {
+        "name": "wallstreetbet",
+        "url": "wallstreetbet",
+        "prize_points": "110"
+    },
+    {
+        "name": "Everything is Fine",
+        "url": "everything-is-fine",
+        "prize_points": "110"
+    },
+    {
+        "name": "One and Zero",
+        "url": "one-and-zero",
+        "prize_points": "110"
+    },
+    {
+        "name": "House Light",
+        "url": "house-light",
+        "prize_points": "110"
+    },
+    {
+        "name": "Dragon",
+        "url": "dragon",
+        "prize_points": "110"
+    },
+    {
+        "name": "the suboptimal grad students",
+        "url": "the-suboptimal-grad-students",
+        "prize_points": "110"
+    },
+    {
+        "name": "Pyrates of the Caribbean ",
+        "url": "pyrates-of-the-caribbean",
+        "prize_points": "110"
+    },
+    {
+        "name": "GOML",
+        "url": "goml",
+        "prize_points": "110"
+    },
+    {
+        "name": "The VINNers",
+        "url": "the-vinners",
+        "prize_points": "110"
+    },
+    {
+        "name": "Keep Calm and Query On",
+        "url": "keep-calm-and-query-on",
+        "prize_points": "110"
+    },
+    {
+        "name": "Team TO",
+        "url": "team-to",
+        "prize_points": "105"
+    },
+    {
+        "name": "Npower Calgary ",
+        "url": "npower-calgary",
+        "prize_points": "105"
+    },
+    {
+        "name": "Aura &amp; Friends",
+        "url": "aura-friends",
+        "prize_points": "105"
+    },
+    {
+        "name": "Team Alpha",
+        "url": "team-alpha",
+        "prize_points": "105"
+    },
+    {
+        "name": "Silver Surfers",
+        "url": "silver-surfers",
+        "prize_points": "105"
+    },
+    {
+        "name": "snakeCaseSluts",
+        "url": "snakecasesluts",
+        "prize_points": "105"
+    },
+    {
+        "name": "Team University of Alberta ",
+        "url": "team-university-of-alberta",
+        "prize_points": "105"
+    },
+    {
+        "name": "Unusually Folksy Chicken",
+        "url": "unusually-folksy-chicken",
+        "prize_points": "105"
+    },
+    {
+        "name": "union(Piggie, Daddie)",
+        "url": "unionpiggie-daddie",
+        "prize_points": "100"
+    },
+    {
+        "name": "Team Piks",
+        "url": "team-piks",
+        "prize_points": "100"
+    },
+    {
+        "name": "Irish Coders",
+        "url": "irish-coders",
+        "prize_points": "100"
+    },
+    {
+        "name": "Maidenless Tarnished",
+        "url": "maidenless-tarnished",
+        "prize_points": "100"
+    },
+    {
+        "name": "That Team",
+        "url": "that-team",
+        "prize_points": "100"
+    },
+    {
+        "name": "X-Force",
+        "url": "x-force",
+        "prize_points": "100"
+    },
+    {
+        "name": "I have not idea for names",
+        "url": "i-have-not-idea-for-names",
+        "prize_points": "100"
+    },
+    {
+        "name": "Team 2w2m",
+        "url": "team-2w2m",
+        "prize_points": "100"
+    },
+    {
+        "name": "mtlasavvy",
+        "url": "mtlasavvy",
+        "prize_points": "100"
+    },
+    {
+        "name": "Team Kipling",
+        "url": "team-kipling",
+        "prize_points": "100"
+    },
+    {
+        "name": "Ciscy",
+        "url": "ciscy",
+        "prize_points": "100"
+    },
+    {
+        "name": "Lazy Team",
+        "url": "lazy-team",
+        "prize_points": "100"
+    },
+    {
+        "name": "Slytherin",
+        "url": "slytherin",
+        "prize_points": "100"
+    },
+    {
+        "name": "DATA IS FUN",
+        "url": "data-is-fun",
+        "prize_points": "100"
+    },
+    {
+        "name": "Diamond Hands",
+        "url": "diamond-hands",
+        "prize_points": "100"
+    },
+    {
+        "name": "RA",
+        "url": "ra",
+        "prize_points": "100"
+    },
+    {
+        "name": "Team {BRACK3TS}",
+        "url": "team-brack3ts",
+        "prize_points": "100"
+    },
+    {
+        "name": "Select *, No limit",
+        "url": "select-no-limit",
+        "prize_points": "100"
+    },
+    {
+        "name": "Rocketbrew",
+        "url": "rocketbrew",
+        "prize_points": "100"
+    },
+    {
+        "name": "The Coding Monkeys",
+        "url": "the-coding-monkeys",
+        "prize_points": "100"
+    },
+    {
+        "name": "Certarus",
+        "url": "certarus",
+        "prize_points": "100"
+    },
+    {
+        "name": "Team 316",
+        "url": "team-316",
+        "prize_points": "100"
+    },
+    {
+        "name": "Gryphons with Teeth 🦷",
+        "url": "gryphons-with-teeth",
+        "prize_points": "95"
+    },
+    {
+        "name": "Play and Learn",
+        "url": "play-and-learn",
+        "prize_points": "95"
+    },
+    {
+        "name": "LabRats",
+        "url": "labrats",
+        "prize_points": "95"
+    },
+    {
+        "name": "MTLAwesome",
+        "url": "mtlawesome",
+        "prize_points": "95"
+    },
+    {
+        "name": "Plain and Ketchup",
+        "url": "plain-and-ketchup",
+        "prize_points": "95"
+    },
+    {
+        "name": "Cool kids only",
+        "url": "cool-kids-only",
+        "prize_points": "95"
+    },
+    {
+        "name": "QT3.14&#x27;s",
+        "url": "qt3-14s",
+        "prize_points": "95"
+    },
+    {
+        "name": "Team Rocket",
+        "url": "team-rocket",
+        "prize_points": "95"
+    },
+    {
+        "name": "Central Perk Java",
+        "url": "central-perk-java",
+        "prize_points": "95"
+    },
+    {
+        "name": "Mazespin",
+        "url": "mazespin",
+        "prize_points": "95"
+    },
+    {
+        "name": "Team YAAS",
+        "url": "team-yaas",
+        "prize_points": "90"
+    },
+    {
+        "name": "Charging 3.0",
+        "url": "charging-3-0",
+        "prize_points": "90"
+    },
+    {
+        "name": "Team Food Fun Friends",
+        "url": "team-food-fun-friends",
+        "prize_points": "90"
+    },
+    {
+        "name": "Foodies",
+        "url": "foodies",
+        "prize_points": "90"
+    },
+    {
+        "name": "OpenDRR",
+        "url": "opendrr",
+        "prize_points": "90"
+    },
+    {
+        "name": "CODE_WARRIORS",
+        "url": "code-warriors",
+        "prize_points": "90"
+    },
+    {
+        "name": "HELL",
+        "url": "hell",
+        "prize_points": "90"
+    },
+    {
+        "name": "Team Team Team",
+        "url": "team-team-team",
+        "prize_points": "90"
+    },
+    {
+        "name": "SWE Toronto",
+        "url": "swe-toronto",
+        "prize_points": "90"
+    },
+    {
+        "name": "DataBoat",
+        "url": "databoat",
+        "prize_points": "90"
+    },
+    {
+        "name": "Fellowship of the Ping",
+        "url": "fellowship-of-the-ping",
+        "prize_points": "90"
+    },
+    {
+        "name": "Fat Guys with Huge Decks",
+        "url": "fat-guys-with-huge-decks",
+        "prize_points": "85"
+    },
+    {
+        "name": "Power BI Rangers",
+        "url": "power-bi-rangers",
+        "prize_points": "85"
+    },
+    {
+        "name": "BestPy",
+        "url": "bestpy",
+        "prize_points": "85"
+    },
+    {
+        "name": "Geraff",
+        "url": "geraff",
+        "prize_points": "85"
+    },
+    {
+        "name": "Kings of Kuduairo",
+        "url": "kings-of-kuduairo",
+        "prize_points": "85"
+    },
+    {
+        "name": "Team MTLA",
+        "url": "team-mtla",
+        "prize_points": "85"
+    },
+    {
+        "name": "Team Fi",
+        "url": "team-fi",
+        "prize_points": "85"
+    },
+    {
+        "name": "Hime Eels",
+        "url": "hime-eels",
+        "prize_points": "85"
+    },
+    {
+        "name": "4K 145hz",
+        "url": "4k-145hz",
+        "prize_points": "85"
+    },
+    {
+        "name": "AirPnP",
+        "url": "airpnp",
+        "prize_points": "80"
+    },
+    {
+        "name": "Happy Red Pandas",
+        "url": "happy-red-pandas",
+        "prize_points": "80"
+    },
+    {
+        "name": "WAGBR",
+        "url": "wagbr",
+        "prize_points": "80"
+    },
+    {
+        "name": "Team Maki",
+        "url": "team-maki",
+        "prize_points": "80"
+    },
+    {
+        "name": "Team Cuboh!",
+        "url": "team-cuboh",
+        "prize_points": "80"
+    },
+    {
+        "name": "Impressive, very nice",
+        "url": "impressive-very-nice",
+        "prize_points": "75"
+    },
+    {
+        "name": "print(&quot;Winning Team&quot;)",
+        "url": "printwinning-team",
+        "prize_points": "75"
+    },
+    {
+        "name": "The Gigabyters",
+        "url": "the-gigabyters",
+        "prize_points": "75"
+    },
+    {
+        "name": "Corgs Gonna Corg",
+        "url": "corgs-gonna-corg",
+        "prize_points": "75"
+    },
+    {
+        "name": "Team powerglow",
+        "url": "team-powerglow",
+        "prize_points": "75"
+    },
+    {
+        "name": "Sushi Stars",
+        "url": "sushi-stars",
+        "prize_points": "75"
+    },
+    {
+        "name": "Scribb gang",
+        "url": "scribb-gang",
+        "prize_points": "75"
+    },
+    {
+        "name": "Team Gonzos ",
+        "url": "team-gonzos",
+        "prize_points": "75"
+    },
+    {
+        "name": "UP Pyth(on)!!!",
+        "url": "up-python",
+        "prize_points": "75"
+    },
+    {
+        "name": "Foxshiya",
+        "url": "foxshiya",
+        "prize_points": "75"
+    },
+    {
+        "name": "The beatz",
+        "url": "the-beatz",
+        "prize_points": "75"
+    },
+    {
+        "name": "Complantational",
+        "url": "complantational",
+        "prize_points": "75"
+    },
+    {
+        "name": "Arcade",
+        "url": "arcade",
+        "prize_points": "70"
+    },
+    {
+        "name": "Eggplant",
+        "url": "eggplant",
+        "prize_points": "70"
+    },
+    {
+        "name": "Literally Anyone Can Join Us",
+        "url": "literally-anyone-can-join-us",
+        "prize_points": "70"
+    },
+    {
+        "name": "Underappreciated Bug Catchers",
+        "url": "underappreciated-bug-catchers",
+        "prize_points": "70"
+    },
+    {
+        "name": "Count Carlton",
+        "url": "count-carlton",
+        "prize_points": "70"
+    },
+    {
+        "name": "Team QOne",
+        "url": "team-qone",
+        "prize_points": "70"
+    },
+    {
+        "name": "boba_tea",
+        "url": "boba-tea",
+        "prize_points": "70"
+    },
+    {
+        "name": "Team SlapJack Bros",
+        "url": "team-slapjack-bros",
+        "prize_points": "70"
+    },
+    {
+        "name": "SpaghettiLover",
+        "url": "spaghettilover",
+        "prize_points": "70"
+    },
+    {
+        "name": "Epic Library Team!",
+        "url": "epic-library-team",
+        "prize_points": "70"
+    },
+    {
+        "name": "Sneks and Ladders",
+        "url": "sneks-and-ladders",
+        "prize_points": "70"
+    },
+    {
+        "name": "STM Teacher team",
+        "url": "stm-teacher-team",
+        "prize_points": "70"
+    },
+    {
+        "name": "Lets get this bread",
+        "url": "lets-get-this-bread",
+        "prize_points": "70"
+    },
+    {
+        "name": "Limoonz",
+        "url": "limoonz",
+        "prize_points": "70"
+    },
+    {
+        "name": "Team Ramen",
+        "url": "team-ramen",
+        "prize_points": "70"
+    },
+    {
+        "name": "Py4H",
+        "url": "py4h",
+        "prize_points": "70"
+    },
+    {
+        "name": "Oakville",
+        "url": "oakville",
+        "prize_points": "70"
+    },
+    {
+        "name": "Team Bun à la Bun",
+        "url": "team-bun-a-la-bun",
+        "prize_points": "70"
+    },
+    {
+        "name": "Team Green Orange",
+        "url": "team-green-orange",
+        "prize_points": "70"
+    },
+    {
+        "name": "Beedie Bright",
+        "url": "beedie-bright",
+        "prize_points": "70"
+    },
+    {
+        "name": "Team Awesome Data TA ",
+        "url": "team-awesome-data-ta",
+        "prize_points": "70"
+    },
+    {
+        "name": "BrainStorm",
+        "url": "brainstorm",
+        "prize_points": "70"
+    },
+    {
+        "name": "Datassets ",
+        "url": "datassets",
+        "prize_points": "70"
+    },
+    {
+        "name": "Everettview",
+        "url": "everettview",
+        "prize_points": "70"
+    },
+    {
+        "name": "What the CRUD?",
+        "url": "what-the-crud",
+        "prize_points": "70"
+    },
+    {
+        "name": "Les pandas programmeurs ",
+        "url": "les-pandas-programmeurs",
+        "prize_points": "65"
+    },
+    {
+        "name": "Abnormal Distribution",
+        "url": "abnormal-distribution",
+        "prize_points": "65"
+    },
+    {
+        "name": "Big Brains Only",
+        "url": "big-brains-only",
+        "prize_points": "65"
+    },
+    {
+        "name": "Madmen",
+        "url": "madmen",
+        "prize_points": "65"
+    },
+    {
+        "name": "GIVE US PRIZES PLEASE!!! WE LOVE LIGHTHOUSE LABS!!! YOU DA BEST!!!",
+        "url": "give-us-prizes-please-we-love-lighthouse-labs-you-da-best",
+        "prize_points": "65"
+    },
+    {
+        "name": "TheHomeOffice",
+        "url": "thehomeoffice",
+        "prize_points": "65"
+    },
+    {
+        "name": "Dolly&#x27;s Magic Carpet",
+        "url": "dollys-magic-carpet",
+        "prize_points": "65"
+    },
+    {
+        "name": "Crossover",
+        "url": "crossover",
+        "prize_points": "65"
+    },
+    {
+        "name": "Team Cloud 2",
+        "url": "team-cloud-2",
+        "prize_points": "60"
+    },
+    {
+        "name": "Coding Geeks",
+        "url": "coding-geeks",
+        "prize_points": "60"
+    },
+    {
+        "name": "Deca-ten",
+        "url": "deca-ten",
+        "prize_points": "60"
+    },
+    {
+        "name": "Nacho Average Crew",
+        "url": "nacho-average-crew",
+        "prize_points": "60"
+    },
+    {
+        "name": "_CAD_Calgary_",
+        "url": "cad-calgary",
+        "prize_points": "60"
+    },
+    {
+        "name": "WestCoastPowerTeam",
+        "url": "westcoastpowerteam",
+        "prize_points": "60"
+    },
+    {
+        "name": "JV",
+        "url": "jv",
+        "prize_points": "60"
+    },
+    {
+        "name": "A Quail-ity Team",
+        "url": "a-quail-ity-team",
+        "prize_points": "60"
+    },
+    {
+        "name": "YVRHKer",
+        "url": "yvrhker",
+        "prize_points": "60"
+    },
+    {
+        "name": "Chikhuls",
+        "url": "chikhuls",
+        "prize_points": "60"
+    },
+    {
+        "name": "Team Custard",
+        "url": "team-custard",
+        "prize_points": "60"
+    },
+    {
+        "name": "Brickheads",
+        "url": "brickheads",
+        "prize_points": "60"
+    },
+    {
+        "name": "Rubber Ducky",
+        "url": "rubber-ducky",
+        "prize_points": "60"
+    },
+    {
+        "name": "Team Dumpling",
+        "url": "team-dumpling",
+        "prize_points": "60"
+    },
+    {
+        "name": "&#x2F;dev&#x2F;null",
+        "url": "dev-null",
+        "prize_points": "60"
+    },
+    {
+        "name": "Lighthouse Data Challenge Team",
+        "url": "lighthouse-data-challenge-team",
+        "prize_points": "60"
+    },
+    {
+        "name": "Team LHL LXD",
+        "url": "team-lhl-lxd",
+        "prize_points": "60"
+    },
+    {
+        "name": "Team LSBS",
+        "url": "team-lsbs",
+        "prize_points": "60"
+    },
+    {
+        "name": "Coffee and Donuts",
+        "url": "coffee-and-donuts",
+        "prize_points": "60"
+    },
+    {
+        "name": "The Tragically Git",
+        "url": "the-tragically-git",
+        "prize_points": "60"
+    },
+    {
+        "name": "EDGEUP2",
+        "url": "edgeup2",
+        "prize_points": "60"
+    },
+    {
+        "name": "Zucchini 2.0",
+        "url": "zucchini-2-0",
+        "prize_points": "55"
+    },
+    {
+        "name": "Cuboh Team B",
+        "url": "cuboh-team-b",
+        "prize_points": "55"
+    },
+    {
+        "name": "The Game",
+        "url": "the-game",
+        "prize_points": "55"
+    },
+    {
+        "name": "Data Analytics Nerds",
+        "url": "data-analytics-nerds",
+        "prize_points": "55"
+    },
+    {
+        "name": "Educators Unite!!",
+        "url": "educators-unite",
+        "prize_points": "55"
+    },
+    {
+        "name": "Team Awesome Data TA - Team 2",
+        "url": "team-awesome-data-ta-team-2",
+        "prize_points": "55"
+    },
+    {
+        "name": "SuperiorVinnDevs",
+        "url": "superiorvinndevs",
+        "prize_points": "55"
+    },
+    {
+        "name": "Canada Represent",
+        "url": "canada-represent",
+        "prize_points": "55"
+    },
+    {
+        "name": "Coding Corgis",
+        "url": "coding-corgis",
+        "prize_points": "55"
+    },
+    {
+        "name": "Go Getters",
+        "url": "go-getters",
+        "prize_points": "55"
+    },
+    {
+        "name": "Rapid Cucumber",
+        "url": "rapid-cucumber",
+        "prize_points": "50"
+    },
+    {
+        "name": "Unicorn x Rainbow",
+        "url": "unicorn-x-rainbow",
+        "prize_points": "50"
+    },
+    {
+        "name": "Awesome Possum",
+        "url": "awesome-possum",
+        "prize_points": "50"
+    },
+    {
+        "name": "Nizar Team",
+        "url": "nizar-team",
+        "prize_points": "50"
+    },
+    {
+        "name": "Cat Takers",
+        "url": "cat-takers",
+        "prize_points": "50"
+    },
+    {
+        "name": "NOV2222",
+        "url": "nov2222",
+        "prize_points": "50"
+    },
+    {
+        "name": "Knights of Bipen",
+        "url": "knights-of-bipen",
+        "prize_points": "50"
+    },
+    {
+        "name": "Chimichangas",
+        "url": "chimichangas",
+        "prize_points": "50"
+    },
+    {
+        "name": "Acapella Club ",
+        "url": "acapella-club",
+        "prize_points": "50"
+    },
+    {
+        "name": "Team Sparkling Hills",
+        "url": "team-sparkling-hills",
+        "prize_points": "50"
+    },
+    {
+        "name": "The Champs",
+        "url": "the-champs",
+        "prize_points": "50"
+    },
+    {
+        "name": "LHLAlumni",
+        "url": "lhlalumni",
+        "prize_points": "50"
+    },
+    {
+        "name": "Team Frog Beer",
+        "url": "team-frog-beer",
+        "prize_points": "50"
+    },
+    {
+        "name": "Dat A Team",
+        "url": "dat-a-team",
+        "prize_points": "50"
+    },
+    {
+        "name": "chutoro",
+        "url": "chutoro",
+        "prize_points": "50"
+    },
+    {
+        "name": "Team Expanse",
+        "url": "team-expanse",
+        "prize_points": "50"
+    },
+    {
+        "name": "Team Wattsbert",
+        "url": "team-wattsbert",
+        "prize_points": "50"
+    },
+    {
+        "name": "Elsecallers",
+        "url": "elsecallers",
+        "prize_points": "50"
+    },
+    {
+        "name": "AA",
+        "url": "aa",
+        "prize_points": "50"
+    },
+    {
+        "name": "0x44 0x140",
+        "url": "0x44-0x140",
+        "prize_points": "50"
+    },
+    {
+        "name": "Average Callback Hell Enjoyers",
+        "url": "average-callback-hell-enjoyers",
+        "prize_points": "50"
+    },
+    {
+        "name": "Team Chargers",
+        "url": "team-chargers",
+        "prize_points": "50"
+    },
+    {
+        "name": "Machine Learners",
+        "url": "machine-learners",
+        "prize_points": "50"
+    },
+    {
+        "name": "MLJ",
+        "url": "mlj",
+        "prize_points": "50"
+    },
+    {
+        "name": "Fellas!",
+        "url": "fellas",
+        "prize_points": "50"
+    },
+    {
+        "name": "Lighthouse",
+        "url": "lighthouse",
+        "prize_points": "50"
+    },
+    {
+        "name": "Nadapon",
+        "url": "nadapon",
+        "prize_points": "50"
+    },
+    {
+        "name": "Data Analytica",
+        "url": "data-analytica",
+        "prize_points": "50"
+    },
+    {
+        "name": "Team Chicken",
+        "url": "team-chicken",
+        "prize_points": "50"
+    },
+    {
+        "name": "Crazy Bois",
+        "url": "crazy-bois",
+        "prize_points": "50"
+    },
+    {
+        "name": "Team Awesome Data TA - Team 1",
+        "url": "team-awesome-data-ta-team-1",
+        "prize_points": "50"
+    },
+    {
+        "name": "Rick &amp; Morty",
+        "url": "rick-morty",
+        "prize_points": "50"
+    },
+    {
+        "name": "Ketchup and Mustard",
+        "url": "ketchup-and-mustard",
+        "prize_points": "50"
+    },
+    {
+        "name": "Team PE",
+        "url": "team-pe",
+        "prize_points": "50"
+    },
+    {
+        "name": "Team TMAD",
+        "url": "team-tmad",
+        "prize_points": "50"
+    },
+    {
+        "name": "Team SE",
+        "url": "team-se",
+        "prize_points": "50"
+    },
+    {
+        "name": "McMcMoo",
+        "url": "mcmcmoo",
+        "prize_points": "50"
+    },
+    {
+        "name": "Walkinduke",
+        "url": "walkinduke",
+        "prize_points": "50"
+    },
+    {
+        "name": "Andula",
+        "url": "andula",
+        "prize_points": "50"
+    },
+    {
+        "name": "Team Beefy",
+        "url": "team-beefy",
+        "prize_points": "50"
+    },
+    {
+        "name": "MARNO",
+        "url": "marno",
+        "prize_points": "50"
+    },
+    {
+        "name": "2022 Stanley Cup Champions: Edmonton Oilers",
+        "url": "2022-stanley-cup-champions-edmonton-oilers",
+        "prize_points": "45"
+    },
+    {
+        "name": "OCHO_Data",
+        "url": "ocho-data",
+        "prize_points": "45"
+    },
+    {
+        "name": "Newbie Struggle",
+        "url": "newbie-struggle",
+        "prize_points": "45"
+    },
+    {
+        "name": "Little Data Orphans Team",
+        "url": "little-data-orphans-team",
+        "prize_points": "45"
+    },
+    {
+        "name": "Overland Flow",
+        "url": "overland-flow",
+        "prize_points": "45"
+    },
+    {
+        "name": "Team CanSharks",
+        "url": "team-cansharks",
+        "prize_points": "45"
+    },
+    {
+        "name": "Team Nuggets",
+        "url": "team-nuggets",
+        "prize_points": "45"
+    },
+    {
+        "name": "According to all known laws of aviation, there is no way a bee should be able to fly.  Its wings are too small to get its fat little body off the ground. The bee, of course, flies anyway because bees don&#x27;t care what humans think is impossible.",
+        "url": "according-to-all-known-laws-of-aviation-there-is-no-way-a-bee-should-be-able-to",
+        "prize_points": "45"
+    },
+    {
+        "name": "Booster Bros",
+        "url": "booster-bros",
+        "prize_points": "45"
+    },
+    {
+        "name": "Family ",
+        "url": "family",
+        "prize_points": "45"
+    },
+    {
+        "name": "Data Driven",
+        "url": "data-driven",
+        "prize_points": "45"
+    },
+    {
+        "name": "Team Cat",
+        "url": "team-cat",
+        "prize_points": "45"
+    },
+    {
+        "name": "Team Capicuties",
+        "url": "team-capicuties",
+        "prize_points": "45"
+    },
+    {
+        "name": "My Nickname in Highschool",
+        "url": "my-nickname-in-highschool",
+        "prize_points": "45"
+    },
+    {
+        "name": "Amachamax",
+        "url": "amachamax",
+        "prize_points": "45"
+    },
+    {
+        "name": "elphoa",
+        "url": "elphoa",
+        "prize_points": "45"
+    },
+    {
+        "name": "Data Analytical Gurus",
+        "url": "data-analytical-gurus",
+        "prize_points": "45"
+    },
+    {
+        "name": "Mercedes-AMG Petronas Formula One Team",
+        "url": "mercedes-amg-petronas-formula-one-team",
+        "prize_points": "40"
+    },
+    {
+        "name": "Team Squats",
+        "url": "team-squats",
+        "prize_points": "40"
+    },
+    {
+        "name": "Cardstock Cats",
+        "url": "cardstock-cats",
+        "prize_points": "40"
+    },
+    {
+        "name": "Lettuce",
+        "url": "lettuce",
+        "prize_points": "40"
+    },
+    {
+        "name": "Jenius Teddy",
+        "url": "jenius-teddy",
+        "prize_points": "40"
+    },
+    {
+        "name": "Team Bean",
+        "url": "team-bean",
+        "prize_points": "40"
+    },
+    {
+        "name": "Team n00bz",
+        "url": "team-n00bz",
+        "prize_points": "40"
+    },
+    {
+        "name": "Help",
+        "url": "help",
+        "prize_points": "40"
+    },
+    {
+        "name": "Amruta Bijagare",
+        "url": "amruta-bijagare",
+        "prize_points": "40"
+    },
+    {
+        "name": "Look at the Data",
+        "url": "look-at-the-data",
+        "prize_points": "40"
+    },
+    {
+        "name": "Whatarewedoingeven",
+        "url": "whatarewedoingeven",
+        "prize_points": "40"
+    },
+    {
+        "name": "Team Ninjas",
+        "url": "team-ninjas",
+        "prize_points": "40"
+    },
+    {
+        "name": "Python Is A Snake",
+        "url": "python-is-a-snake",
+        "prize_points": "40"
+    },
+    {
+        "name": "Smile 3",
+        "url": "smile-3",
+        "prize_points": "40"
+    },
+    {
+        "name": "The Sarcastic Pythons",
+        "url": "the-sarcastic-pythons",
+        "prize_points": "40"
+    },
+    {
+        "name": "Les vilains castors",
+        "url": "les-vilains-castors",
+        "prize_points": "40"
+    },
+    {
+        "name": "Inquisitive Minds",
+        "url": "inquisitive-minds",
+        "prize_points": "40"
+    },
+    {
+        "name": "Green Onions",
+        "url": "green-onions",
+        "prize_points": "40"
+    },
+    {
+        "name": "Team Cricket",
+        "url": "team-cricket",
+        "prize_points": "35"
+    },
+    {
+        "name": "Bob&#x27;s Builders ",
+        "url": "bobs-builders",
+        "prize_points": "35"
+    },
+    {
+        "name": "Team Cool",
+        "url": "team-cool",
+        "prize_points": "35"
+    },
+    {
+        "name": "Team No0bz",
+        "url": "team-no0bz",
+        "prize_points": "35"
+    },
+    {
+        "name": "1453 Laurier Ave",
+        "url": "1453-laurier-ave",
+        "prize_points": "35"
+    },
+    {
+        "name": "Team Cloud",
+        "url": "team-cloud",
+        "prize_points": "35"
+    },
+    {
+        "name": "Women who code",
+        "url": "women-who-code",
+        "prize_points": "35"
+    },
+    {
+        "name": "Shop!",
+        "url": "shop",
+        "prize_points": "35"
+    },
+    {
+        "name": "Lightful Luminaries",
+        "url": "lightful-luminaries",
+        "prize_points": "35"
+    },
+    {
+        "name": "The Pineapple Club",
+        "url": "the-pineapple-club",
+        "prize_points": "35"
+    },
+    {
+        "name": "Data Toaster ",
+        "url": "data-toaster",
+        "prize_points": "35"
+    },
+    {
+        "name": "Team Winners",
+        "url": "team-winners",
+        "prize_points": "35"
+    },
+    {
+        "name": "Team STM",
+        "url": "team-stm",
+        "prize_points": "35"
+    },
+    {
+        "name": "Datasaurus ",
+        "url": "datasaurus",
+        "prize_points": "35"
+    },
+    {
+        "name": "RainbowUnicorns",
+        "url": "rainbowunicorns",
+        "prize_points": "35"
+    },
+    {
+        "name": "Team Tiny Boat",
+        "url": "team-tiny-boat",
+        "prize_points": "35"
+    },
+    {
+        "name": "Strawhats",
+        "url": "strawhats",
+        "prize_points": "35"
+    },
+    {
+        "name": "Pie",
+        "url": "pie",
+        "prize_points": "35"
+    },
+    {
+        "name": "Team Lifelong Learning ",
+        "url": "team-lifelong-learning",
+        "prize_points": "35"
+    },
+    {
+        "name": "Smile Team",
+        "url": "smile-team",
+        "prize_points": "35"
+    },
+    {
+        "name": "Funghi Friends",
+        "url": "funghi-friends",
+        "prize_points": "30"
+    },
+    {
+        "name": "Birdie AI",
+        "url": "birdie-ai",
+        "prize_points": "30"
+    },
+    {
+        "name": "TeamHappyTime",
+        "url": "teamhappytime",
+        "prize_points": "30"
+    },
+    {
+        "name": "PUBLIC BUTTER ",
+        "url": "public-butter",
+        "prize_points": "30"
+    },
+    {
+        "name": "Team BootBoot",
+        "url": "team-bootboot",
+        "prize_points": "30"
+    },
+    {
+        "name": "Tororonto",
+        "url": "tororonto",
+        "prize_points": "30"
+    },
+    {
+        "name": "Team Ham",
+        "url": "team-ham",
+        "prize_points": "30"
+    },
+    {
+        "name": "Suckyteam",
+        "url": "suckyteam",
+        "prize_points": "30"
+    },
+    {
+        "name": "Sister Act",
+        "url": "sister-act",
+        "prize_points": "30"
+    },
+    {
+        "name": "Internet Club (͠≖ ͜ʖ͠≖)👌",
+        "url": "internet-club",
+        "prize_points": "30"
+    },
+    {
+        "name": "THE SMARTIES",
+        "url": "the-smarties",
+        "prize_points": "30"
+    },
+    {
+        "name": "Team Jacob",
+        "url": "team-jacob",
+        "prize_points": "30"
+    },
+    {
+        "name": "Floppy Weiners",
+        "url": "floppy-weiners",
+        "prize_points": "30"
+    },
+    {
+        "name": "Team BZ!",
+        "url": "team-bz",
+        "prize_points": "30"
+    },
+    {
+        "name": "Team Endeavour",
+        "url": "team-endeavour",
+        "prize_points": "30"
+    },
+    {
+        "name": "Team 0w0",
+        "url": "team-0w0",
+        "prize_points": "30"
+    },
+    {
+        "name": "Robot Cow",
+        "url": "robot-cow",
+        "prize_points": "30"
+    },
+    {
+        "name": "Sheba",
+        "url": "sheba",
+        "prize_points": "30"
+    },
+    {
+        "name": "Alpha Wolves 🐺🌝",
+        "url": "alpha-wolves",
+        "prize_points": "30"
+    },
+    {
+        "name": "Underdogs",
+        "url": "underdogs",
+        "prize_points": "30"
+    },
+    {
+        "name": "1208",
+        "url": "1208",
+        "prize_points": "30"
+    },
+    {
+        "name": "inactive team",
+        "url": "inactive-team",
+        "prize_points": "30"
+    },
+    {
+        "name": "Les meilleurs castors",
+        "url": "les-meilleurs-castors",
+        "prize_points": "30"
+    },
+    {
+        "name": "Team Kulak ",
+        "url": "team-kulak",
+        "prize_points": "25"
+    },
+    {
+        "name": "Snake Fanclub",
+        "url": "snake-fanclub",
+        "prize_points": "25"
+    },
+    {
+        "name": "Join",
+        "url": "join",
+        "prize_points": "25"
+    },
+    {
+        "name": "Team kids",
+        "url": "team-kids",
+        "prize_points": "25"
+    },
+    {
+        "name": "Schulich MMGT 2022",
+        "url": "schulich-mmgt-2022",
+        "prize_points": "25"
+    },
+    {
+        "name": "Team EDGEUP",
+        "url": "team-edgeup",
+        "prize_points": "25"
+    },
+    {
+        "name": "eat carrots",
+        "url": "eat-carrots",
+        "prize_points": "25"
+    },
+    {
+        "name": "PythonWizard",
+        "url": "pythonwizard",
+        "prize_points": "25"
+    },
+    {
+        "name": "Bread",
+        "url": "bread",
+        "prize_points": "25"
+    },
+    {
+        "name": "Byte-Me",
+        "url": "byte-me",
+        "prize_points": "25"
+    },
+    {
+        "name": "I DON&#x27;T KNOW WHAT I&#x27;M DOING",
+        "url": "i-dont-know-what-im-doing",
+        "prize_points": "25"
+    },
+    {
+        "name": "TeamLookingToWin",
+        "url": "teamlookingtowin",
+        "prize_points": "25"
+    },
+    {
+        "name": "Birdie AI 2",
+        "url": "birdie-ai-2",
+        "prize_points": "25"
+    },
+    {
+        "name": "Curiosity Made the Cat a Data Scientist",
+        "url": "curiosity-made-the-cat-a-data-scientist",
+        "prize_points": "25"
+    },
+    {
+        "name": "Krusty Krab",
+        "url": "krusty-krab",
+        "prize_points": "25"
+    },
+    {
+        "name": "Team Last Min",
+        "url": "team-last-min",
+        "prize_points": "25"
+    },
+    {
+        "name": "Team CH",
+        "url": "team-ch",
+        "prize_points": "25"
+    },
+    {
+        "name": "Join My Public Team",
+        "url": "join-my-public-team",
+        "prize_points": "25"
+    },
+    {
+        "name": "Open Team",
+        "url": "open-team",
+        "prize_points": "25"
+    },
+    {
+        "name": "Pandas ",
+        "url": "pandas",
+        "prize_points": "25"
+    },
+    {
+        "name": "team",
+        "url": "team",
+        "prize_points": "25"
+    },
+    {
+        "name": "Let&#x27;s Player Software Developers",
+        "url": "lets-player-software-developers",
+        "prize_points": "25"
+    },
+    {
+        "name": "Team Newbie",
+        "url": "team-newbie",
+        "prize_points": "25"
+    },
+    {
+        "name": "digitalPandas",
+        "url": "digitalpandas",
+        "prize_points": "25"
+    },
+    {
+        "name": "Smelly cat",
+        "url": "smelly-cat",
+        "prize_points": "25"
+    },
+    {
+        "name": "The MetaData",
+        "url": "the-metadata",
+        "prize_points": "25"
+    },
+    {
+        "name": "Catdonut",
+        "url": "catdonut",
+        "prize_points": "25"
+    },
+    {
+        "name": "Learners",
+        "url": "learners",
+        "prize_points": "25"
+    },
+    {
+        "name": "Team BIER",
+        "url": "team-bier",
+        "prize_points": "25"
+    },
+    {
+        "name": "Team Awesome Data TA - Team 3",
+        "url": "team-awesome-data-ta-team-3",
+        "prize_points": "25"
+    },
+    {
+        "name": "Formerly CSF",
+        "url": "formerly-csf",
+        "prize_points": "25"
+    },
+    {
+        "name": "Mid-Life Career Changers",
+        "url": "mid-life-career-changers",
+        "prize_points": "25"
+    },
+    {
+        "name": "ParkandBean",
+        "url": "parkandbean",
+        "prize_points": "25"
+    },
+    {
+        "name": "CellCarta Canada",
+        "url": "cellcarta-canada",
+        "prize_points": "25"
+    },
+    {
+        "name": "Walk the Walk",
+        "url": "walk-the-walk",
+        "prize_points": "25"
+    },
+    {
+        "name": "Team Snowman",
+        "url": "team-snowman",
+        "prize_points": "25"
+    },
+    {
+        "name": "Moonstone Coders",
+        "url": "moonstone-coders",
+        "prize_points": "25"
+    },
+    {
+        "name": "Les Patates",
+        "url": "les-patates",
+        "prize_points": "25"
+    },
+    {
+        "name": "Team Doge",
+        "url": "team-doge",
+        "prize_points": "25"
+    },
+    {
+        "name": "The Dream Sheet",
+        "url": "the-dream-sheet",
+        "prize_points": "25"
+    },
+    {
+        "name": "Just for Fun",
+        "url": "just-for-fun",
+        "prize_points": "20"
+    },
+    {
+        "name": "Delicious Data Pye",
+        "url": "delicious-data-pye",
+        "prize_points": "20"
+    },
+    {
+        "name": "Jailhouse",
+        "url": "jailhouse",
+        "prize_points": "20"
+    },
+    {
+        "name": "Mmm",
+        "url": "mmm",
+        "prize_points": "20"
+    },
+    {
+        "name": "strangeloops",
+        "url": "strangeloops",
+        "prize_points": "20"
+    },
+    {
+        "name": "Fine is everything ",
+        "url": "fine-is-everything",
+        "prize_points": "20"
+    },
+    {
+        "name": "Heart &amp; Brain",
+        "url": "heart-brain",
+        "prize_points": "20"
+    },
+    {
+        "name": "Team Postwan",
+        "url": "team-postwan",
+        "prize_points": "20"
+    },
+    {
+        "name": "Stormy",
+        "url": "stormy",
+        "prize_points": "20"
+    },
+    {
+        "name": "Paste Eaters",
+        "url": "paste-eaters",
+        "prize_points": "20"
+    },
+    {
+        "name": "Swamp Hoppers",
+        "url": "swamp-hoppers",
+        "prize_points": "20"
+    },
+    {
+        "name": "Enter the Dojo",
+        "url": "enter-the-dojo",
+        "prize_points": "20"
+    },
+    {
+        "name": "Pizza Panda",
+        "url": "pizza-panda",
+        "prize_points": "20"
+    },
+    {
+        "name": "Harvest!",
+        "url": "harvest",
+        "prize_points": "20"
+    },
+    {
+        "name": "Data Miners",
+        "url": "data-miners",
+        "prize_points": "20"
+    },
+    {
+        "name": "No Frills Insights ",
+        "url": "no-frills-insights",
+        "prize_points": "20"
+    },
+    {
+        "name": "Dream Team 🏆",
+        "url": "dream-team",
+        "prize_points": "20"
+    },
+    {
+        "name": "100Devs Canada",
+        "url": "100devs-canada",
+        "prize_points": "20"
+    },
+    {
+        "name": "The 6IX",
+        "url": "the-6ix",
+        "prize_points": "15"
+    },
+    {
+        "name": "The Leftovers",
+        "url": "the-leftovers",
+        "prize_points": "15"
+    },
+    {
+        "name": "DataManiac",
+        "url": "datamaniac",
+        "prize_points": "15"
+    },
+    {
+        "name": "Team MYMY",
+        "url": "team-mymy",
+        "prize_points": "15"
+    },
+    {
+        "name": "The Club Codes",
+        "url": "the-club-codes",
+        "prize_points": "15"
+    },
+    {
+        "name": "Eat, Breathe, Code",
+        "url": "eat-breathe-code",
+        "prize_points": "15"
+    },
+    {
+        "name": "Team ANNARYAN",
+        "url": "team-annaryan",
+        "prize_points": "15"
+    },
+    {
+        "name": "Team Sunbeam",
+        "url": "team-sunbeam",
+        "prize_points": "15"
+    },
+    {
+        "name": "64k Is All You&#x27;ll Ever Need",
+        "url": "64k-is-all-youll-ever-need",
+        "prize_points": "15"
+    },
+    {
+        "name": "Team Banana Chips",
+        "url": "team-banana-chips",
+        "prize_points": "15"
+    },
+    {
+        "name": "Jap&#x27;s Chaps",
+        "url": "japs-chaps",
+        "prize_points": "15"
+    },
+    {
+        "name": "Team snow",
+        "url": "team-snow",
+        "prize_points": "15"
+    },
+    {
+        "name": "queries out for harambe",
+        "url": "queries-out-for-harambe",
+        "prize_points": "15"
+    },
+    {
+        "name": "The Krang",
+        "url": "the-krang",
+        "prize_points": "15"
+    },
+    {
+        "name": "Team Awesomeness",
+        "url": "team-awesomeness",
+        "prize_points": "15"
+    },
+    {
+        "name": "A team",
+        "url": "a-team",
+        "prize_points": "15"
+    },
+    {
+        "name": "minions",
+        "url": "minions",
+        "prize_points": "15"
+    },
+    {
+        "name": "fantastic ",
+        "url": "fantastic",
+        "prize_points": "15"
+    },
+    {
+        "name": "Team Kittens",
+        "url": "team-kittens",
+        "prize_points": "15"
+    },
+    {
+        "name": "Data Savvy ",
+        "url": "data-savvy",
+        "prize_points": "15"
+    },
+    {
+        "name": "Data Analyst League",
+        "url": "data-analyst-league",
+        "prize_points": "15"
+    },
+    {
+        "name": "Data Newbies",
+        "url": "data-newbies",
+        "prize_points": "15"
+    },
+    {
+        "name": "Team Newbies",
+        "url": "team-newbies",
+        "prize_points": "15"
+    },
+    {
+        "name": "Western Coast Racing",
+        "url": "western-coast-racing",
+        "prize_points": "15"
+    },
+    {
+        "name": "The Elegant Giraffes",
+        "url": "the-elegant-giraffes",
+        "prize_points": "10"
+    },
+    {
+        "name": "Vaswani",
+        "url": "vaswani",
+        "prize_points": "10"
+    },
+    {
+        "name": "Queens of Aldo ",
+        "url": "queens-of-aldo",
+        "prize_points": "10"
+    },
+    {
+        "name": "Data Scientist",
+        "url": "data-scientist",
+        "prize_points": "10"
+    },
+    {
+        "name": "Team BTM",
+        "url": "team-btm",
+        "prize_points": "10"
+    },
+    {
+        "name": "The-Bakers",
+        "url": "the-bakers",
+        "prize_points": "10"
+    },
+    {
+        "name": "MeoMeo",
+        "url": "meomeo",
+        "prize_points": "10"
+    },
+    {
+        "name": "Team Titans ",
+        "url": "team-titans",
+        "prize_points": "10"
+    },
+    {
+        "name": "Cwazy Shwimp",
+        "url": "cwazy-shwimp",
+        "prize_points": "10"
+    },
+    {
+        "name": "support legends",
+        "url": "support-legends",
+        "prize_points": "10"
+    },
+    {
+        "name": "Dragon and Bunny",
+        "url": "dragon-and-bunny",
+        "prize_points": "10"
+    },
+    {
+        "name": "Inefficient Exhausted Engineering Eggs",
+        "url": "inefficient-exhausted-engineering-eggs",
+        "prize_points": "10"
+    },
+    {
+        "name": "On va survivre OPU",
+        "url": "on-va-survivre-opu",
+        "prize_points": "10"
+    },
+    {
+        "name": "Brogrammers",
+        "url": "brogrammers",
+        "prize_points": "10"
+    },
+    {
+        "name": "The Data Sharks",
+        "url": "the-data-sharks",
+        "prize_points": "10"
+    },
+    {
+        "name": "Team HevBen",
+        "url": "team-hevben",
+        "prize_points": "10"
+    },
+    {
+        "name": "YYC2022",
+        "url": "yyc2022",
+        "prize_points": "10"
+    },
+    {
+        "name": "Up to Muffin&#x27; Good",
+        "url": "up-to-muffin-good",
+        "prize_points": "10"
+    },
+    {
+        "name": "Team Pookie",
+        "url": "team-pookie",
+        "prize_points": "10"
+    },
+    {
+        "name": "Smile Team 2",
+        "url": "smile-team-2",
+        "prize_points": "10"
+    },
+    {
+        "name": "Schulich C Team",
+        "url": "schulich-c-team",
+        "prize_points": "10"
+    },
+    {
+        "name": "AzadSisters",
+        "url": "azadsisters",
+        "prize_points": "10"
+    },
+    {
+        "name": "Rhazelle&#x27;s Team",
+        "url": "rhazelles-team",
+        "prize_points": "5"
+    },
+    {
+        "name": "Paw_Patrol",
+        "url": "paw-patrol",
+        "prize_points": "5"
+    },
+    {
+        "name": "BeaBo &amp; Slade",
+        "url": "beabo-slade",
+        "prize_points": "5"
+    },
+    {
+        "name": "Team MoneyBall",
+        "url": "team-moneyball",
+        "prize_points": "5"
+    },
+    {
+        "name": "Monkey Circus",
+        "url": "monkey-circus",
+        "prize_points": "5"
+    },
+    {
+        "name": "We ❤️ Data",
+        "url": "we-data",
+        "prize_points": "5"
+    },
+    {
+        "name": "Family Team",
+        "url": "family-team",
+        "prize_points": "5"
+    },
+    {
+        "name": "My pet python, Pablo, likes triple chocolate fudge cake ",
+        "url": "my-pet-python-pablo-likes-triple-chocolate-fudge-cake",
+        "prize_points": "5"
+    },
+    {
+        "name": "Team Awesome Data TA Team 4",
+        "url": "team-awesome-data-ta-team-4",
+        "prize_points": "5"
+    },
+    {
+        "name": "Team hot shits &lt;3",
+        "url": "team-hot-shits-3",
+        "prize_points": "5"
+    },
+    {
+        "name": "Killer Clerks",
+        "url": "killer-clerks",
+        "prize_points": "5"
+    },
+    {
+        "name": "Team Bujjis",
+        "url": "team-bujjis",
+        "prize_points": "5"
+    },
+    {
+        "name": "Team Need a New Job",
+        "url": "team-need-a-new-job",
+        "prize_points": "5"
+    },
+    {
+        "name": "MRPBRP",
+        "url": "mrpbrp",
+        "prize_points": "5"
+    },
+    {
+        "name": "CyHunters",
+        "url": "cyhunters",
+        "prize_points": "0"
+    },
+    {
+        "name": "VV NinjaTurtles",
+        "url": "vv-ninjaturtles",
+        "prize_points": "0"
+    },
+    {
+        "name": "MS Data Devs",
+        "url": "ms-data-devs",
+        "prize_points": "0"
+    }
+]
