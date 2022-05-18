@@ -21,7 +21,7 @@ class Greet(Resource):
         parser.add_argument('name', type=str)
         
         # parse 'name'
-        name = parser.parse_args().get('home')
+        name = parser.parse_args().get('name')
         
         if name:
             greeting = f'Hello {name}!'
@@ -29,7 +29,7 @@ class Greet(Resource):
             greeting = 'Hello person without name!'
         
         # make json from greeting string
-        return jsonify(greeting=greeting)
+        return jsonify(greeting=greeting, )
     
 # the class`Greet` contains only one method - _get_
 # inside the _get_ method, we initialize RequestParser()
@@ -40,3 +40,8 @@ class Greet(Resource):
     # which will result in a different message being returned
 
 # %% assign endpoint using `Greek` class
+api.add_resource(Greet, '/greet')
+
+# %% lastly, create an application run when the file is called directly
+if __name__ == '__main__':
+    app.run(host='0.0.0.0', port=5555)
