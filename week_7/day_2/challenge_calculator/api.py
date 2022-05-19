@@ -14,7 +14,7 @@ Then return the result.
 
 # === PACKAGES === #
 
-from flask import Flask
+from flask import Flask, request
 from flask_restful import Resource, Api, reqparse
 
 
@@ -33,64 +33,45 @@ class Add(Resource):
     
     def get(self):
         
-        parser = reqparse.RequestParser()
-        parser.add_argument('x', type=int)
-        parser.add_argument('y', type=int)
-        
-        x = parser.parse_args().get('x')
-        y = parser.parse_args().get('y')
+        x = request.args.get('x', type=int)
+        y = request.args.get('y', type=int)
         
         num = x + y
         
-        return num
+        return {'answer' : num}
 
 class Subtract(Resource):
     
     def get(self):
         
-        parser = reqparse.RequestParser()
-        parser.add_argument('x', type=int)
-        parser.add_argument('y', type=int)
+        x = request.args.get('x', type=int)
+        y = request.args.get('y', type=int)
         
-        x = parser.parse_args().get('x')
-        y = parser.parse_args().get('y')
+        num = x - y
         
-        num = abs(x -y)
-        
-        return num
+        return {'answer' : num}
     
 class Multiply(Resource):
     
     def get(self):
         
-        parser = reqparse.RequestParser()
-        parser.add_argument('x', type=int)
-        parser.add_argument('y', type=int)
-        
-        x = parser.parse_args().get('x')
-        y = parser.parse_args().get('y')
+        x = request.args.get('x', type=int)
+        y = request.args.get('y', type=int)
         
         num = x * y
         
-        return num
+        return {'answer' : num}
     
 class Divide(Resource):
     
     def get(self):
         
-        parser = reqparse.RequestParser()
-        parser.add_argument('x', type=int)
-        parser.add_argument('y', type=int)
+        x = request.args.get('x', type=int)
+        y = request.args.get('y', type=int)
         
-        x = parser.parse_args().get('x')
-        y = parser.parse_args().get('y')
+        num = x / y
         
-        if x > y:
-            num = x / y
-        else:
-            num = y /x
-            
-        return num
+        return {'answer' : num}
 
 
 # === ENDPOINTS === #
@@ -105,4 +86,4 @@ api.add_resource(Divide, '/divide')
 # === RUN === #
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=5555)
+    app.run(host='0.0.0.0', port=5555, debug=False)

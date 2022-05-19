@@ -43,9 +43,6 @@ model = pickle.load(open('model.pk', 'rb'))
 
 # request class to retrieve model results
 class Scoring(Resource):
-    def get(self):
-        greeting = 'Hello! Please post something!'
-        return jsonify(greeting=greeting)
     
     def post(self):
         

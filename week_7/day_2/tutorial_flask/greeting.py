@@ -13,6 +13,7 @@ api = Api(app)
 # now that the API has been created, we need to add an endpoint
 # %% create a new class that inherits properties from the 'Resources' class
 class Greet(Resource):
+    
     def get(self):
         # create request parser
         parser = reqparse.RequestParser()
@@ -29,7 +30,7 @@ class Greet(Resource):
             greeting = 'Hello person without name!'
         
         # make json from greeting string
-        return jsonify(greeting=greeting, )
+        return jsonify(greeting=greeting)
     
 # the class`Greet` contains only one method - _get_
 # inside the _get_ method, we initialize RequestParser()
@@ -39,9 +40,9 @@ class Greet(Resource):
 # if the user doesn't pass a _name_, the value of the variable is `NULL`
     # which will result in a different message being returned
 
-# %% assign endpoint using `Greek` class
+# %% assign endpoint using `Greet` class
 api.add_resource(Greet, '/greet')
 
 # %% lastly, create an application run when the file is called directly
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=5555)
+    app.run(host='0.0.0.0', port=5000)
