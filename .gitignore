@@ -1,6 +1,8 @@
 # DIRECTORIES
 lecture
 data
+week_??/day_?/res/data
+week_??/day_?/res/img
 week_??/day_?/flask
 week_??/day_?/__lhlrepos__
 week_??/we/__lhlrepos__
@@ -14,4 +16,4 @@ week_??/we/__lhlrepos__
 *.tmp.driveupload
 *.ipynb_checkpoints
 *.html
-*.vscode
+*.vscoded
