@@ -7,3 +7,5 @@ week_??/day_?/__lhlrepos__
 # FILES
 *.DS_Store
 *.csv
+*.js
+*.json
