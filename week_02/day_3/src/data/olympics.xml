@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<data>
+  <country name="greece">
+    <order>1</order>
+    <year>1896</year>
+    <nexthost name="france"></nexthost>
+  </country>
+  <country name="united states of america">
+    <order>3</order>
+    <year>1904</year>
+    <previoushost name="france"></previoushost>
+    <nexthost name="england"></nexthost>
+  </country>
+  <country name="australia">
+    <order>27</order>
+    <year>2000</year>
+    <previoushost name="united states of america"></previoushost>
+    <nexthost name="greece"></nexthost>
+  </country>
+</data>
