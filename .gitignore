@@ -1,10 +1,9 @@
 # DIRECTORIES
 */*/res/data/
-week_5/day_4/res/data/
-docker/
-medium/
-midterm/
-week_?/day_?/lecture
-week_?/day_?/__lhlrepos__/
-week_?/we/__lhlrepos__/
-week_?/day_?/flask
+week_??/day_?/lecture
+week_??/day_?/flask
+week_??/day_?/__lhlrepos__
+
+# FILES
+*.DS_Store
+*.csv
