@@ -14,6 +14,7 @@ week_??/we/__lhlrepos__
 *.js
 *.json
 *.tmp.driveupload
+*.tmp.drivedownload
 *.ipynb_checkpoints
 *.html
 *.vscoded
