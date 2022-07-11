@@ -1,6 +1,0 @@
-*.csv
-*.zip
-*.pyc
-*.ipynb_checkpoints
-*.DS_store
-*.env
