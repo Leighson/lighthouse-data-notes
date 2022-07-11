@@ -1,9 +1,10 @@
 # DIRECTORIES
-*/*/res/data/
-week_??/day_?/lecture
+lecture
+data
 week_??/day_?/flask
 week_??/day_?/__lhlrepos__
 week_??/we/__lhlrepos__
+
 
 # FILES
 *.DS_Store
@@ -11,3 +12,6 @@ week_??/we/__lhlrepos__
 *.js
 *.json
 *.tmp.driveupload
+*.ipynb_checkpoints
+*.html
+*.vscode
