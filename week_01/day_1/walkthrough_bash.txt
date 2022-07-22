@@ -1,0 +1,8 @@
+   32562 people_bash_tutorial.data
+  488415 people_bash_tutorial.data
+people_bash_tutorial.data
+total 7768
+-rw-r--r--  1 lsantos  staff  3974305 22 Jul 15:33 people_bash_tutorial.data
+       3
+sort people_bash_tutorial.dta | uniq -d | wc -l # count duplicate lines in people_bash_tutorial.data
+      23

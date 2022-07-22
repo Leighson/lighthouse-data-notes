@@ -1,0 +1,23 @@
+How many rows does the dataset have?
+ 3634468 cast.csv
+Change the delimiter to ;
+title;year;name;type;character;n
+Closet Monster;2015;Buffy #1;actor;Buffy 4;
+Suuri illusioni;1985;Homo $;actor;Guests;22
+Battle of the Sexes;2017;$hutter;actor;Bobby Riggs Fan;10
+Secret in Their Eyes;2015;$hutter;actor;2002 Dodger Fan;
+Steve Jobs;2015;$hutter;actor;1988 Opera House Patron;
+Straight Outta Compton;2015;$hutter;actor;Club Patron;
+Straight Outta Compton;2015;$hutter;actor;Dopeman;
+For Thy Love 2;2009;Bee Moe $lim;actor;Thug 1;
+"Lapis; Ballpen at Diploma; a True to Life Journey";2014;Jori ' Danilo' Jurado Jr.;actor;Jaime (young);9
+Output the header into a separate file cast_header.csv and remove it from the data
+head -1 cast.csv > cast_header.csv
+title,year,name,type,character,n
+      58
+How many movies did Pierce Brosnan play in?
+Were there more superman movies or batman movies?
+grep 'superman' cast.csv | wc -l
+       5
+grep 'batman' cast.csv | wc -l
+       4
