@@ -58,8 +58,20 @@ What is the space, in bytes, occupied by the playlist “Grunge”, and how much
 (Assume that the cost of a playlist is the sum of the price of its constituent tracks).
 */
 
-
+SELECT SUM(tracks.Bytes), SUM(tracks.UnitPrice) FROM tracks
+WHERE tracks.TrackId IN (
+    SELECT playlist_track.TrackId FROM playlists
+    JOIN playlist_track ON playlist_track.PlaylistId=playlists.PlaylistId
+    WHERE playlists.Name IS 'Grunge'
+    );
 
 /* TASK III
 List the names and the countries of those customers who are supported by an employee who was younger than 35 when hired. 
 */
+
+SELECT (customers.FirstName || ' ' || customers.LastName) AS Name, customers.Country FROM customers
+WHERE customers.SupportRepId IN (
+    SELECT employees.EmployeeId FROM employees
+    WHERE employees.HireDate-employees.BirthDate < 35
+    )
+ORDER BY customers.LastName;
