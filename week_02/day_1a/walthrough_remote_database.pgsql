@@ -20,3 +20,9 @@ SELECT
     DATE_PART('year', employees.hiredate) - DATE_PART('year', employees.birthdate) AS Age
 FROM employees
 WHERE DATE_PART('year', CURRENT_DATE) - DATE_PART('year', employees.hiredate) < 30;
+
+/* walkthrough */
+SELECT 
+    products.productname,
+    SUM(products.unitprice) OVER (ORDER BY products.productid) AS running_total
+FROM products;
