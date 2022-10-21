@@ -73,3 +73,37 @@ SELECT
     products.productname,
     products.categoryid
 FROM products;
+
+/* NTILE is used to identify what percentile (or quartile or any other subdivision) a given row
+falls into. In this case, ORDEER BY determines which column to useb to determine the quartiles.
+The syntax requires that the number of boxes be specified to determine the percentiles.*/
+
+SELECT
+    products.productid,
+    products.productname,
+    products.unitprice,
+    NTILE(4) OVER(
+        PARTITION BY products.categoryid ORDER BY products.unitprice) AS quartile,
+    NTILE(10) OVER(
+        PARTITION BY products.categoryid ORDER BY products.unitprice) AS decatile
+FROM products ORDER BY products.categoryid;
+
+SELECT MIN(products.unitprice), MAX(products.unitprice) FROM products;
+
+/* LAG and LEAD can often be useful to compare rows to preceding or following rows,
+especially if the data is in an order for comparisons to make sense. The syntax requires
+that the amount of LAG or LEAD is specified with the column to be compared. 0 returns the 
+current row. */
+
+SELECT
+    products.productid,
+    products.productname,
+    products.categoryid,
+    products.unitprice,
+    LAG(products.unitprice, 1) OVER(
+        PARTITION BY products.categoryid ORDER BY products.unitprice) AS lag_1,
+    LEAD(products.unitprice, 2) OVER(
+        PARTITION BY products.categoryid ORDER BY products.unitprice) AS lead_2,
+    products.unitprice - LAG(products.unitprice, 1) OVER(
+        PARTITION BY products.categoryid ORDER BY products.unitprice) AS comparison
+FROM products;
