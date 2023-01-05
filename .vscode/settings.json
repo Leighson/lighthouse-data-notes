@@ -1,3 +1,11 @@
 {
-    "notebook.output.textLineLimit": 50
+    "notebook.output.textLineLimit": 50,
+    "cSpell.customDictionaries": {
+        "custom-dictionary-workspace": {
+            "name": "custom-dictionary-workspace",
+            "path": "${workspaceFolder:lhl-data-notes}/.cspell/custom-dictionary-workspace.txt",
+            "addWords": true,
+            "scope": "workspace"
+        }
+    }
 }
