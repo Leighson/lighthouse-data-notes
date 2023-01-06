@@ -1,2 +1,12 @@
 # Custom Dictionary Words
+Cavs
+fgpct
+levene
+pval
+pvalue
 scipy
+tmean
+tstat
+tstd
+ttest
+tval
