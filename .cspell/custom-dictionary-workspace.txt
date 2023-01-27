@@ -2,9 +2,13 @@
 blatt
 Cavs
 fgpct
+figsize
 levene
+matplotlib
 pval
 pvalue
+pyplot
+randn
 scipy
 tmean
 tstat
